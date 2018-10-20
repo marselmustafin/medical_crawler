@@ -1,0 +1,4710 @@
+[
+    {
+        "name": "Александровск",
+        "url": "https://prodoctorov.ru/aleksandrovsk/"
+    },
+    {
+        "name": "Березники",
+        "url": "https://prodoctorov.ru/berezniki/"
+    },
+    {
+        "name": "Верещагино",
+        "url": "https://prodoctorov.ru/vereshagino/"
+    },
+    {
+        "name": "Верхнечусовские городки",
+        "url": "https://prodoctorov.ru/verhnechusovskie/"
+    },
+    {
+        "name": "Горнозаводск",
+        "url": "https://prodoctorov.ru/gornozavodsk/"
+    },
+    {
+        "name": "Гремячинск",
+        "url": "https://prodoctorov.ru/gremyachinsk/"
+    },
+    {
+        "name": "Губаха",
+        "url": "https://prodoctorov.ru/gubaha/"
+    },
+    {
+        "name": "д. Кондратово",
+        "url": "https://prodoctorov.ru/kondratovo/"
+    },
+    {
+        "name": "Добрянка",
+        "url": "https://prodoctorov.ru/dobryanka/"
+    },
+    {
+        "name": "Кизел",
+        "url": "https://prodoctorov.ru/kizel/"
+    },
+    {
+        "name": "Красновишерск",
+        "url": "https://prodoctorov.ru/krasnovishersk/"
+    },
+    {
+        "name": "Краснокамск",
+        "url": "https://prodoctorov.ru/krasnokamsk/"
+    },
+    {
+        "name": "Кудымкар",
+        "url": "https://prodoctorov.ru/kudymkar/"
+    },
+    {
+        "name": "Кунгур",
+        "url": "https://prodoctorov.ru/kungur/"
+    },
+    {
+        "name": "Лысьва",
+        "url": "https://prodoctorov.ru/lysva/"
+    },
+    {
+        "name": "Нытва",
+        "url": "https://prodoctorov.ru/nytva/"
+    },
+    {
+        "name": "Оса",
+        "url": "https://prodoctorov.ru/osa/"
+    },
+    {
+        "name": "Оханск",
+        "url": "https://prodoctorov.ru/ohansk/"
+    },
+    {
+        "name": "Очёр",
+        "url": "https://prodoctorov.ru/ochyor/"
+    },
+    {
+        "name": "п. Всеволодо-Вильва",
+        "url": "https://prodoctorov.ru/vsevolodovo-vilva/"
+    },
+    {
+        "name": "п. Гайны",
+        "url": "https://prodoctorov.ru/gainy/"
+    },
+    {
+        "name": "пгт. Суксун",
+        "url": "https://prodoctorov.ru/suksun/"
+    },
+    {
+        "name": "Пермь",
+        "url": "https://prodoctorov.ru/perm/"
+    },
+    {
+        "name": "п. Ильинский (Пермский край)",
+        "url": "https://prodoctorov.ru/ilinskiy-perm/"
+    },
+    {
+        "name": "п. Керчевский",
+        "url": "https://prodoctorov.ru/kerchevskiy/"
+    },
+    {
+        "name": "п. Куеда",
+        "url": "https://prodoctorov.ru/kueda/"
+    },
+    {
+        "name": "п. Майкор",
+        "url": "https://prodoctorov.ru/maikor/"
+    },
+    {
+        "name": "п. Ныроб",
+        "url": "https://prodoctorov.ru/nirob/"
+    },
+    {
+        "name": "п. Октябрьский (Пермский)",
+        "url": "https://prodoctorov.ru/oktybrskiy-perm/"
+    },
+    {
+        "name": "п. Полазна",
+        "url": "https://prodoctorov.ru/polazna/"
+    },
+    {
+        "name": "п. Уральский (Пермский край)",
+        "url": "https://prodoctorov.ru/uralskiy-perm/"
+    },
+    {
+        "name": "п. Юго-Камский",
+        "url": "https://prodoctorov.ru/yugo-kamskogo/"
+    },
+    {
+        "name": "п. Яйва",
+        "url": "https://prodoctorov.ru/yaiva/"
+    },
+    {
+        "name": "с. Барда",
+        "url": "https://prodoctorov.ru/barda/"
+    },
+    {
+        "name": "с. Березовка",
+        "url": "https://prodoctorov.ru/beryozovka/"
+    },
+    {
+        "name": "с. Большая Соснова",
+        "url": "https://prodoctorov.ru/bolshayz-sosnova/"
+    },
+    {
+        "name": "с. Елово (Пермский край)",
+        "url": "https://prodoctorov.ru/elovo-perm/"
+    },
+    {
+        "name": "с. Карагай (Пермский край)",
+        "url": "https://prodoctorov.ru/karagai-perm/"
+    },
+    {
+        "name": "с. Коса",
+        "url": "https://prodoctorov.ru/kosa/"
+    },
+    {
+        "name": "с. Кочёво",
+        "url": "https://prodoctorov.ru/kochevo/"
+    },
+    {
+        "name": "с. Култаево",
+        "url": "https://prodoctorov.ru/kultaevo/"
+    },
+    {
+        "name": "с. Ленск (Пермский)",
+        "url": "https://prodoctorov.ru/lensk-perm/"
+    },
+    {
+        "name": "с. Лобаново",
+        "url": "https://prodoctorov.ru/lobanovo/"
+    },
+    {
+        "name": "Соликамск",
+        "url": "https://prodoctorov.ru/solikamsk/"
+    },
+    {
+        "name": "с. Орда",
+        "url": "https://prodoctorov.ru/orda/"
+    },
+    {
+        "name": "с. Сива",
+        "url": "https://prodoctorov.ru/siva/"
+    },
+    {
+        "name": "с. Уинское",
+        "url": "https://prodoctorov.ru/uinskoe/"
+    },
+    {
+        "name": "с. Усть-Кишерть",
+        "url": "https://prodoctorov.ru/ust-kishert/"
+    },
+    {
+        "name": "с. Фоки",
+        "url": "https://prodoctorov.ru/foki/"
+    },
+    {
+        "name": "с. Частые",
+        "url": "https://prodoctorov.ru/chastie/"
+    },
+    {
+        "name": "с. Юрла",
+        "url": "https://prodoctorov.ru/urla/"
+    },
+    {
+        "name": "с. Юсьва",
+        "url": "https://prodoctorov.ru/usva/"
+    },
+    {
+        "name": "Усолье",
+        "url": "https://prodoctorov.ru/usole/"
+    },
+    {
+        "name": "Центральный-Коспашский",
+        "url": "https://prodoctorov.ru/centralniy-kospashskiy/"
+    },
+    {
+        "name": "Чайковский",
+        "url": "https://prodoctorov.ru/chaykovskiy/"
+    },
+    {
+        "name": "Чердынь",
+        "url": "https://prodoctorov.ru/cherdyn/"
+    },
+    {
+        "name": "Чернушка",
+        "url": "https://prodoctorov.ru/chernushka/"
+    },
+    {
+        "name": "Чёрмоз",
+        "url": "https://prodoctorov.ru/chyormoz/"
+    },
+    {
+        "name": "Чусовой",
+        "url": "https://prodoctorov.ru/chusovoy/"
+    },
+    {
+        "name": "Нарьян-Мар",
+        "url": "https://prodoctorov.ru/naryan-mar/"
+    },
+    {
+        "name": "Апатиты",
+        "url": "https://prodoctorov.ru/apatity/"
+    },
+    {
+        "name": "Гаджиево",
+        "url": "https://prodoctorov.ru/gadzhievo/"
+    },
+    {
+        "name": "Заозёрск",
+        "url": "https://prodoctorov.ru/zaozyorsk/"
+    },
+    {
+        "name": "Заполярный",
+        "url": "https://prodoctorov.ru/zapolyarnyy/"
+    },
+    {
+        "name": "Кандалакша",
+        "url": "https://prodoctorov.ru/kandalaksha/"
+    },
+    {
+        "name": "Кировск",
+        "url": "https://prodoctorov.ru/kirovsk/"
+    },
+    {
+        "name": "Ковдор",
+        "url": "https://prodoctorov.ru/kovdor/"
+    },
+    {
+        "name": "Кола",
+        "url": "https://prodoctorov.ru/kola/"
+    },
+    {
+        "name": "Мончегорск",
+        "url": "https://prodoctorov.ru/monchegorsk/"
+    },
+    {
+        "name": "Мурманск",
+        "url": "https://prodoctorov.ru/murmansk/"
+    },
+    {
+        "name": "Оленегорск",
+        "url": "https://prodoctorov.ru/olenegorsk/"
+    },
+    {
+        "name": "Островной",
+        "url": "https://prodoctorov.ru/ostrovnoy/"
+    },
+    {
+        "name": "Полярные Зори",
+        "url": "https://prodoctorov.ru/polyarnye-zori/"
+    },
+    {
+        "name": "Полярный",
+        "url": "https://prodoctorov.ru/polyarnyy/"
+    },
+    {
+        "name": "Североморск",
+        "url": "https://prodoctorov.ru/severomorsk/"
+    },
+    {
+        "name": "Снежногорск",
+        "url": "https://prodoctorov.ru/snezhnogorsk/"
+    },
+    {
+        "name": "Адыгейск",
+        "url": "https://prodoctorov.ru/adygeysk/"
+    },
+    {
+        "name": "а. Тахтамукай",
+        "url": "https://prodoctorov.ru/tahtamukay/"
+    },
+    {
+        "name": "Майкоп",
+        "url": "https://prodoctorov.ru/maykop/"
+    },
+    {
+        "name": "п. Каменномостский",
+        "url": "https://prodoctorov.ru/kamennomostskiy/"
+    },
+    {
+        "name": "п. Краснооктябрьский",
+        "url": "https://prodoctorov.ru/krasnooktyabrskiy/"
+    },
+    {
+        "name": "пос. Яблоновский",
+        "url": "https://prodoctorov.ru/yablonovskiy/"
+    },
+    {
+        "name": "п. Тлюстенхабль",
+        "url": "https://prodoctorov.ru/tlyustenhabl/"
+    },
+    {
+        "name": "п.  Тульский",
+        "url": "https://prodoctorov.ru/tulskiy/"
+    },
+    {
+        "name": "п. Энем",
+        "url": "https://prodoctorov.ru/enem/"
+    },
+    {
+        "name": "с. Белое",
+        "url": "https://prodoctorov.ru/beloe/"
+    },
+    {
+        "name": "с. Красногвардейское",
+        "url": "https://prodoctorov.ru/krasnogvardyayskoe/"
+    },
+    {
+        "name": "ст. Абадзехская",
+        "url": "https://prodoctorov.ru/abadzehskaya/"
+    },
+    {
+        "name": "ст. Гиагинская",
+        "url": "https://prodoctorov.ru/giaginskaya/"
+    },
+    {
+        "name": "ст. Дондуковская",
+        "url": "https://prodoctorov.ru/dondukovskaya/"
+    },
+    {
+        "name": "ст. Ханская",
+        "url": "https://prodoctorov.ru/hanskaya/"
+    },
+    {
+        "name": "Исилькуль",
+        "url": "https://prodoctorov.ru/isilkul/"
+    },
+    {
+        "name": "Калачинск",
+        "url": "https://prodoctorov.ru/kalachinsk/"
+    },
+    {
+        "name": "Называевск",
+        "url": "https://prodoctorov.ru/nazyvaevsk/"
+    },
+    {
+        "name": "Омск",
+        "url": "https://prodoctorov.ru/omsk/"
+    },
+    {
+        "name": "Тара",
+        "url": "https://prodoctorov.ru/tara/"
+    },
+    {
+        "name": "Тюкалинск",
+        "url": "https://prodoctorov.ru/tyukalinsk/"
+    },
+    {
+        "name": "Болхов",
+        "url": "https://prodoctorov.ru/bolhov/"
+    },
+    {
+        "name": "Дмитровск",
+        "url": "https://prodoctorov.ru/dmitrovsk/"
+    },
+    {
+        "name": "Ливны",
+        "url": "https://prodoctorov.ru/livny/"
+    },
+    {
+        "name": "Малоархангельск",
+        "url": "https://prodoctorov.ru/maloarhangelsk/"
+    },
+    {
+        "name": "Мценск",
+        "url": "https://prodoctorov.ru/mcensk/"
+    },
+    {
+        "name": "Новосиль",
+        "url": "https://prodoctorov.ru/novosil/"
+    },
+    {
+        "name": "Орёл",
+        "url": "https://prodoctorov.ru/oryol/"
+    },
+    {
+        "name": "Анадырь",
+        "url": "https://prodoctorov.ru/anadyr/"
+    },
+    {
+        "name": "Билибино",
+        "url": "https://prodoctorov.ru/bilibino/"
+    },
+    {
+        "name": "Певек",
+        "url": "https://prodoctorov.ru/pevek/"
+    },
+    {
+        "name": "Гаврилов-Ям",
+        "url": "https://prodoctorov.ru/gavrilov-yam/"
+    },
+    {
+        "name": "Данилов",
+        "url": "https://prodoctorov.ru/danilov/"
+    },
+    {
+        "name": "Любим",
+        "url": "https://prodoctorov.ru/lyubim/"
+    },
+    {
+        "name": "Мышкин",
+        "url": "https://prodoctorov.ru/myshkin/"
+    },
+    {
+        "name": "Переславль-Залесский",
+        "url": "https://prodoctorov.ru/pereslavl-zalesskiy/"
+    },
+    {
+        "name": "Пошехонье",
+        "url": "https://prodoctorov.ru/poshehone/"
+    },
+    {
+        "name": "Ростов",
+        "url": "https://prodoctorov.ru/rostov/"
+    },
+    {
+        "name": "Рыбинск",
+        "url": "https://prodoctorov.ru/rybinsk/"
+    },
+    {
+        "name": "Тутаев",
+        "url": "https://prodoctorov.ru/tutaev/"
+    },
+    {
+        "name": "Углич",
+        "url": "https://prodoctorov.ru/uglich/"
+    },
+    {
+        "name": "Ярославль",
+        "url": "https://prodoctorov.ru/yaroslavl/"
+    },
+    {
+        "name": "Аргун",
+        "url": "https://prodoctorov.ru/argun/"
+    },
+    {
+        "name": "Грозный",
+        "url": "https://prodoctorov.ru/groznyy/"
+    },
+    {
+        "name": "Гудермес",
+        "url": "https://prodoctorov.ru/gudermes/"
+    },
+    {
+        "name": "Урус-Мартан",
+        "url": "https://prodoctorov.ru/urus-martan/"
+    },
+    {
+        "name": "Шали",
+        "url": "https://prodoctorov.ru/shali/"
+    },
+    {
+        "name": "Аша",
+        "url": "https://prodoctorov.ru/asha/"
+    },
+    {
+        "name": "Бакал",
+        "url": "https://prodoctorov.ru/bakal/"
+    },
+    {
+        "name": "Верхнеуральск",
+        "url": "https://prodoctorov.ru/verhneuralsk/"
+    },
+    {
+        "name": "Верхний Уфалей",
+        "url": "https://prodoctorov.ru/verhniy-ufalyay/"
+    },
+    {
+        "name": "Еманжелинск",
+        "url": "https://prodoctorov.ru/emanzhelinsk/"
+    },
+    {
+        "name": "Златоуст",
+        "url": "https://prodoctorov.ru/zlatoust/"
+    },
+    {
+        "name": "Карабаш",
+        "url": "https://prodoctorov.ru/karabash/"
+    },
+    {
+        "name": "Карталы",
+        "url": "https://prodoctorov.ru/kartaly/"
+    },
+    {
+        "name": "Касли",
+        "url": "https://prodoctorov.ru/kasli/"
+    },
+    {
+        "name": "Катав-Ивановск",
+        "url": "https://prodoctorov.ru/katav-ivanovsk/"
+    },
+    {
+        "name": "Копейск",
+        "url": "https://prodoctorov.ru/kopyaysk/"
+    },
+    {
+        "name": "Коркино",
+        "url": "https://prodoctorov.ru/korkino/"
+    },
+    {
+        "name": "Куса",
+        "url": "https://prodoctorov.ru/kusa/"
+    },
+    {
+        "name": "Кыштым",
+        "url": "https://prodoctorov.ru/kyshtym/"
+    },
+    {
+        "name": "Магнитогорск",
+        "url": "https://prodoctorov.ru/magnitogorsk/"
+    },
+    {
+        "name": "Миасс",
+        "url": "https://prodoctorov.ru/miass/"
+    },
+    {
+        "name": "Миньяр",
+        "url": "https://prodoctorov.ru/minyar/"
+    },
+    {
+        "name": "Нязепетровск",
+        "url": "https://prodoctorov.ru/nyazepetrovsk/"
+    },
+    {
+        "name": "Озёрск",
+        "url": "https://prodoctorov.ru/ozyorsk/"
+    },
+    {
+        "name": "Пласт",
+        "url": "https://prodoctorov.ru/plast/"
+    },
+    {
+        "name": "Сатка",
+        "url": "https://prodoctorov.ru/satka/"
+    },
+    {
+        "name": "Сим",
+        "url": "https://prodoctorov.ru/sim/"
+    },
+    {
+        "name": "Снежинск",
+        "url": "https://prodoctorov.ru/snezhinsk/"
+    },
+    {
+        "name": "Трёхгорный",
+        "url": "https://prodoctorov.ru/tryohgornyy/"
+    },
+    {
+        "name": "Троицк, ЧО",
+        "url": "https://prodoctorov.ru/troick-ch/"
+    },
+    {
+        "name": "Усть-Катав",
+        "url": "https://prodoctorov.ru/ust-katav/"
+    },
+    {
+        "name": "Чебаркуль",
+        "url": "https://prodoctorov.ru/chebarkul/"
+    },
+    {
+        "name": "Челябинск",
+        "url": "https://prodoctorov.ru/chelyabinsk/"
+    },
+    {
+        "name": "Южноуральск",
+        "url": "https://prodoctorov.ru/yuzhnouralsk/"
+    },
+    {
+        "name": "Юрюзань",
+        "url": "https://prodoctorov.ru/yuryuzan/"
+    },
+    {
+        "name": "Белоярский",
+        "url": "https://prodoctorov.ru/beloyarskiy/"
+    },
+    {
+        "name": "Когалым",
+        "url": "https://prodoctorov.ru/kogalym/"
+    },
+    {
+        "name": "Лангепас",
+        "url": "https://prodoctorov.ru/langepas/"
+    },
+    {
+        "name": "Лянтор",
+        "url": "https://prodoctorov.ru/lyantor/"
+    },
+    {
+        "name": "Мегион",
+        "url": "https://prodoctorov.ru/megion/"
+    },
+    {
+        "name": "Нефтеюганск",
+        "url": "https://prodoctorov.ru/nefteyugansk/"
+    },
+    {
+        "name": "Нижневартовск",
+        "url": "https://prodoctorov.ru/nizhnevartovsk/"
+    },
+    {
+        "name": "Нягань",
+        "url": "https://prodoctorov.ru/nyagan/"
+    },
+    {
+        "name": "Покачи",
+        "url": "https://prodoctorov.ru/pokachi/"
+    },
+    {
+        "name": "Пыть-Ях",
+        "url": "https://prodoctorov.ru/pyt-yah/"
+    },
+    {
+        "name": "Радужный",
+        "url": "https://prodoctorov.ru/raduzhnyy/"
+    },
+    {
+        "name": "Советский",
+        "url": "https://prodoctorov.ru/sovetskiy/"
+    },
+    {
+        "name": "Сургут",
+        "url": "https://prodoctorov.ru/surgut/"
+    },
+    {
+        "name": "Урай",
+        "url": "https://prodoctorov.ru/uray/"
+    },
+    {
+        "name": "Ханты-Мансийск",
+        "url": "https://prodoctorov.ru/hanty-mansiysk/"
+    },
+    {
+        "name": "Югорск",
+        "url": "https://prodoctorov.ru/yugorsk/"
+    },
+    {
+        "name": "Барыш",
+        "url": "https://prodoctorov.ru/barysh/"
+    },
+    {
+        "name": "Димитровград",
+        "url": "https://prodoctorov.ru/dimitrovgrad/"
+    },
+    {
+        "name": "Инза",
+        "url": "https://prodoctorov.ru/inza/"
+    },
+    {
+        "name": "Новоульяновск",
+        "url": "https://prodoctorov.ru/novoulyanovsk/"
+    },
+    {
+        "name": "Сенгилей",
+        "url": "https://prodoctorov.ru/sengilyay/"
+    },
+    {
+        "name": "Ульяновск",
+        "url": "https://prodoctorov.ru/ulyanovsk/"
+    },
+    {
+        "name": "Воткинск",
+        "url": "https://prodoctorov.ru/votkinsk/"
+    },
+    {
+        "name": "Глазов",
+        "url": "https://prodoctorov.ru/glazov/"
+    },
+    {
+        "name": "Ижевск",
+        "url": "https://prodoctorov.ru/izhevsk/"
+    },
+    {
+        "name": "Камбарка",
+        "url": "https://prodoctorov.ru/kambarka/"
+    },
+    {
+        "name": "Можга",
+        "url": "https://prodoctorov.ru/mozhga/"
+    },
+    {
+        "name": "Сарапул",
+        "url": "https://prodoctorov.ru/sarapul/"
+    },
+    {
+        "name": "Заводоуковск",
+        "url": "https://prodoctorov.ru/zavodoukovsk/"
+    },
+    {
+        "name": "Ишим",
+        "url": "https://prodoctorov.ru/ishim/"
+    },
+    {
+        "name": "Тобольск",
+        "url": "https://prodoctorov.ru/tobolsk/"
+    },
+    {
+        "name": "Тюмень",
+        "url": "https://prodoctorov.ru/tyumen/"
+    },
+    {
+        "name": "Ялуторовск",
+        "url": "https://prodoctorov.ru/yalutorovsk/"
+    },
+    {
+        "name": "Асино",
+        "url": "https://prodoctorov.ru/asino/"
+    },
+    {
+        "name": "Кедровый",
+        "url": "https://prodoctorov.ru/kedrovyy/"
+    },
+    {
+        "name": "Колпашево",
+        "url": "https://prodoctorov.ru/kolpashevo/"
+    },
+    {
+        "name": "Северск",
+        "url": "https://prodoctorov.ru/seversk/"
+    },
+    {
+        "name": "Стрежевой",
+        "url": "https://prodoctorov.ru/strezhevoy/"
+    },
+    {
+        "name": "Томск",
+        "url": "https://prodoctorov.ru/tomsk/"
+    },
+    {
+        "name": "Агрыз",
+        "url": "https://prodoctorov.ru/agryz/"
+    },
+    {
+        "name": "Азнакаево",
+        "url": "https://prodoctorov.ru/aznakaevo/"
+    },
+    {
+        "name": "Альметьевск",
+        "url": "https://prodoctorov.ru/almetevsk/"
+    },
+    {
+        "name": "Арск",
+        "url": "https://prodoctorov.ru/arsk/"
+    },
+    {
+        "name": "Бавлы",
+        "url": "https://prodoctorov.ru/bavly/"
+    },
+    {
+        "name": "Болгар",
+        "url": "https://prodoctorov.ru/bolgar/"
+    },
+    {
+        "name": "Бугульма",
+        "url": "https://prodoctorov.ru/bugulma/"
+    },
+    {
+        "name": "Буинск",
+        "url": "https://prodoctorov.ru/buinsk/"
+    },
+    {
+        "name": "Елабуга",
+        "url": "https://prodoctorov.ru/elabuga/"
+    },
+    {
+        "name": "Заинск",
+        "url": "https://prodoctorov.ru/zainsk/"
+    },
+    {
+        "name": "Зеленодольск",
+        "url": "https://prodoctorov.ru/zelenodolsk/"
+    },
+    {
+        "name": "Казань",
+        "url": "https://prodoctorov.ru/kazan/"
+    },
+    {
+        "name": "Лаишево",
+        "url": "https://prodoctorov.ru/laishevo/"
+    },
+    {
+        "name": "Лениногорск",
+        "url": "https://prodoctorov.ru/leninogorsk/"
+    },
+    {
+        "name": "Мамадыш",
+        "url": "https://prodoctorov.ru/mamadysh/"
+    },
+    {
+        "name": "Менделеевск",
+        "url": "https://prodoctorov.ru/mendeleevsk/"
+    },
+    {
+        "name": "Мензелинск",
+        "url": "https://prodoctorov.ru/menzelinsk/"
+    },
+    {
+        "name": "Набережные Челны",
+        "url": "https://prodoctorov.ru/naberezhnye-chelny/"
+    },
+    {
+        "name": "Нижнекамск",
+        "url": "https://prodoctorov.ru/nizhnekamsk/"
+    },
+    {
+        "name": "Нурлат",
+        "url": "https://prodoctorov.ru/nurlat/"
+    },
+    {
+        "name": "Тетюши",
+        "url": "https://prodoctorov.ru/tetyushi/"
+    },
+    {
+        "name": "Чистополь",
+        "url": "https://prodoctorov.ru/chistopol/"
+    },
+    {
+        "name": "Жердевка",
+        "url": "https://prodoctorov.ru/zherdevka/"
+    },
+    {
+        "name": "Кирсанов",
+        "url": "https://prodoctorov.ru/kirsanov/"
+    },
+    {
+        "name": "Котовск",
+        "url": "https://prodoctorov.ru/kotovsk/"
+    },
+    {
+        "name": "Мичуринск",
+        "url": "https://prodoctorov.ru/michurinsk/"
+    },
+    {
+        "name": "Моршанск",
+        "url": "https://prodoctorov.ru/morshansk/"
+    },
+    {
+        "name": "Рассказово",
+        "url": "https://prodoctorov.ru/rasskazovo/"
+    },
+    {
+        "name": "Тамбов",
+        "url": "https://prodoctorov.ru/tambov/"
+    },
+    {
+        "name": "Уварово",
+        "url": "https://prodoctorov.ru/uvarovo/"
+    },
+    {
+        "name": "Благодарный",
+        "url": "https://prodoctorov.ru/blagodarnyy/"
+    },
+    {
+        "name": "Будённовск",
+        "url": "https://prodoctorov.ru/budyonnovsk/"
+    },
+    {
+        "name": "Георгиевск",
+        "url": "https://prodoctorov.ru/georgievsk/"
+    },
+    {
+        "name": "Ессентуки",
+        "url": "https://prodoctorov.ru/essentuki/"
+    },
+    {
+        "name": "Железноводск",
+        "url": "https://prodoctorov.ru/zheleznovodsk/"
+    },
+    {
+        "name": "Зеленокумск",
+        "url": "https://prodoctorov.ru/zelenokumsk/"
+    },
+    {
+        "name": "Изобильный",
+        "url": "https://prodoctorov.ru/izobilnyy/"
+    },
+    {
+        "name": "Ипатово",
+        "url": "https://prodoctorov.ru/ipatovo/"
+    },
+    {
+        "name": "Кисловодск",
+        "url": "https://prodoctorov.ru/kislovodsk/"
+    },
+    {
+        "name": "Лермонтов",
+        "url": "https://prodoctorov.ru/lermontov/"
+    },
+    {
+        "name": "Минеральные Воды",
+        "url": "https://prodoctorov.ru/mineralnye-vody/"
+    },
+    {
+        "name": "Михайловск",
+        "url": "https://prodoctorov.ru/mihaylovsk/"
+    },
+    {
+        "name": "Невинномысск",
+        "url": "https://prodoctorov.ru/nevinnomyssk/"
+    },
+    {
+        "name": "Нефтекумск",
+        "url": "https://prodoctorov.ru/neftekumsk/"
+    },
+    {
+        "name": "Новоалександровск",
+        "url": "https://prodoctorov.ru/novoaleksandrovsk/"
+    },
+    {
+        "name": "Новопавловск",
+        "url": "https://prodoctorov.ru/novopavlovsk/"
+    },
+    {
+        "name": "Пятигорск",
+        "url": "https://prodoctorov.ru/pyatigorsk/"
+    },
+    {
+        "name": "Светлоград",
+        "url": "https://prodoctorov.ru/svetlograd/"
+    },
+    {
+        "name": "с. Донское",
+        "url": "https://prodoctorov.ru/donskoe/"
+    },
+    {
+        "name": "Ставрополь",
+        "url": "https://prodoctorov.ru/stavropol/"
+    },
+    {
+        "name": "Велиж",
+        "url": "https://prodoctorov.ru/velizh/"
+    },
+    {
+        "name": "Вязьма",
+        "url": "https://prodoctorov.ru/vyazma/"
+    },
+    {
+        "name": "Гагарин",
+        "url": "https://prodoctorov.ru/gagarin/"
+    },
+    {
+        "name": "Демидов",
+        "url": "https://prodoctorov.ru/demidov/"
+    },
+    {
+        "name": "Десногорск",
+        "url": "https://prodoctorov.ru/desnogorsk/"
+    },
+    {
+        "name": "Дорогобуж",
+        "url": "https://prodoctorov.ru/dorogobuzh/"
+    },
+    {
+        "name": "Духовщина",
+        "url": "https://prodoctorov.ru/duhovshina/"
+    },
+    {
+        "name": "Ельня",
+        "url": "https://prodoctorov.ru/elnya/"
+    },
+    {
+        "name": "Починок",
+        "url": "https://prodoctorov.ru/pochinok/"
+    },
+    {
+        "name": "Рославль",
+        "url": "https://prodoctorov.ru/roslavl/"
+    },
+    {
+        "name": "Рудня",
+        "url": "https://prodoctorov.ru/rudnya/"
+    },
+    {
+        "name": "Сафоново",
+        "url": "https://prodoctorov.ru/safonovo/"
+    },
+    {
+        "name": "Смоленск",
+        "url": "https://prodoctorov.ru/smolensk/"
+    },
+    {
+        "name": "Сычёвка",
+        "url": "https://prodoctorov.ru/sychyovka/"
+    },
+    {
+        "name": "Ярцево",
+        "url": "https://prodoctorov.ru/yarcevo/"
+    },
+    {
+        "name": "Алдан",
+        "url": "https://prodoctorov.ru/aldan/"
+    },
+    {
+        "name": "Верхоянск",
+        "url": "https://prodoctorov.ru/verhoyansk/"
+    },
+    {
+        "name": "Вилюйск",
+        "url": "https://prodoctorov.ru/vilyuysk/"
+    },
+    {
+        "name": "Ленск",
+        "url": "https://prodoctorov.ru/lensk/"
+    },
+    {
+        "name": "Мирный(Якутия)",
+        "url": "https://prodoctorov.ru/mirnyy-yakutia/"
+    },
+    {
+        "name": "Нерюнгри",
+        "url": "https://prodoctorov.ru/neryungri/"
+    },
+    {
+        "name": "Нюрба",
+        "url": "https://prodoctorov.ru/nyurba/"
+    },
+    {
+        "name": "Олёкминск",
+        "url": "https://prodoctorov.ru/olyokminsk/"
+    },
+    {
+        "name": "Покровск",
+        "url": "https://prodoctorov.ru/pokrovsk/"
+    },
+    {
+        "name": "Среднеколымск",
+        "url": "https://prodoctorov.ru/srednekolymsk/"
+    },
+    {
+        "name": "Томмот",
+        "url": "https://prodoctorov.ru/tommot/"
+    },
+    {
+        "name": "Удачный",
+        "url": "https://prodoctorov.ru/udachnyy/"
+    },
+    {
+        "name": "Якутск",
+        "url": "https://prodoctorov.ru/yakutsk/"
+    },
+    {
+        "name": "Александровск-Сахалинский",
+        "url": "https://prodoctorov.ru/aleksandrovsk-sahalinskiy/"
+    },
+    {
+        "name": "Анива",
+        "url": "https://prodoctorov.ru/aniva/"
+    },
+    {
+        "name": "Долинск",
+        "url": "https://prodoctorov.ru/dolinsk/"
+    },
+    {
+        "name": "Корсаков",
+        "url": "https://prodoctorov.ru/korsakov/"
+    },
+    {
+        "name": "Курильск",
+        "url": "https://prodoctorov.ru/kurilsk/"
+    },
+    {
+        "name": "Макаров",
+        "url": "https://prodoctorov.ru/makarov/"
+    },
+    {
+        "name": "Невельск",
+        "url": "https://prodoctorov.ru/nevelsk/"
+    },
+    {
+        "name": "Оха",
+        "url": "https://prodoctorov.ru/oha/"
+    },
+    {
+        "name": "Поронайск",
+        "url": "https://prodoctorov.ru/poronaysk/"
+    },
+    {
+        "name": "Северо-Курильск",
+        "url": "https://prodoctorov.ru/severo-kurilsk/"
+    },
+    {
+        "name": "Томари",
+        "url": "https://prodoctorov.ru/tomari/"
+    },
+    {
+        "name": "Углегорск",
+        "url": "https://prodoctorov.ru/uglegorsk/"
+    },
+    {
+        "name": "Холмск",
+        "url": "https://prodoctorov.ru/holmsk/"
+    },
+    {
+        "name": "Шахтёрск",
+        "url": "https://prodoctorov.ru/shahtyorsk/"
+    },
+    {
+        "name": "Южно-Сахалинск",
+        "url": "https://prodoctorov.ru/yuzhno-sahalinsk/"
+    },
+    {
+        "name": "Ардатов",
+        "url": "https://prodoctorov.ru/ardatov/"
+    },
+    {
+        "name": "Инсар",
+        "url": "https://prodoctorov.ru/insar/"
+    },
+    {
+        "name": "Ковылкино",
+        "url": "https://prodoctorov.ru/kovylkino/"
+    },
+    {
+        "name": "Краснослободск",
+        "url": "https://prodoctorov.ru/krasnoslobodsk/"
+    },
+    {
+        "name": "Рузаевка",
+        "url": "https://prodoctorov.ru/ruzaevka/"
+    },
+    {
+        "name": "Саранск",
+        "url": "https://prodoctorov.ru/saransk/"
+    },
+    {
+        "name": "Темников",
+        "url": "https://prodoctorov.ru/temnikov/"
+    },
+    {
+        "name": "Жигулёвск",
+        "url": "https://prodoctorov.ru/zhigulyovsk/"
+    },
+    {
+        "name": "Кинель",
+        "url": "https://prodoctorov.ru/kinel/"
+    },
+    {
+        "name": "Нефтегорск",
+        "url": "https://prodoctorov.ru/neftegorsk/"
+    },
+    {
+        "name": "Новокуйбышевск",
+        "url": "https://prodoctorov.ru/novokuybyshevsk/"
+    },
+    {
+        "name": "Октябрьск",
+        "url": "https://prodoctorov.ru/oktyabrsk/"
+    },
+    {
+        "name": "Отрадный",
+        "url": "https://prodoctorov.ru/otradnyy/"
+    },
+    {
+        "name": "Похвистнево",
+        "url": "https://prodoctorov.ru/pohvistnevo/"
+    },
+    {
+        "name": "Самара",
+        "url": "https://prodoctorov.ru/samara/"
+    },
+    {
+        "name": "с. Сергиевск",
+        "url": "https://prodoctorov.ru/sergievsk/"
+    },
+    {
+        "name": "Сызрань",
+        "url": "https://prodoctorov.ru/syzran/"
+    },
+    {
+        "name": "Тольятти",
+        "url": "https://prodoctorov.ru/tolyatti/"
+    },
+    {
+        "name": "Чапаевск",
+        "url": "https://prodoctorov.ru/chapaevsk/"
+    },
+    {
+        "name": "Магадан",
+        "url": "https://prodoctorov.ru/magadan/"
+    },
+    {
+        "name": "Сусуман",
+        "url": "https://prodoctorov.ru/susuman/"
+    },
+    {
+        "name": "Дмитриев",
+        "url": "https://prodoctorov.ru/dmitriev/"
+    },
+    {
+        "name": "Железногорск",
+        "url": "https://prodoctorov.ru/zheleznogorsk/"
+    },
+    {
+        "name": "Курск",
+        "url": "https://prodoctorov.ru/kursk/"
+    },
+    {
+        "name": "Курчатов",
+        "url": "https://prodoctorov.ru/kurchatov/"
+    },
+    {
+        "name": "Льгов",
+        "url": "https://prodoctorov.ru/lgov/"
+    },
+    {
+        "name": "Обоянь",
+        "url": "https://prodoctorov.ru/oboyan/"
+    },
+    {
+        "name": "Рыльск",
+        "url": "https://prodoctorov.ru/rylsk/"
+    },
+    {
+        "name": "Суджа",
+        "url": "https://prodoctorov.ru/sudzha/"
+    },
+    {
+        "name": "Фатеж",
+        "url": "https://prodoctorov.ru/fatezh/"
+    },
+    {
+        "name": "Щигры",
+        "url": "https://prodoctorov.ru/shigry/"
+    },
+    {
+        "name": "Далматово",
+        "url": "https://prodoctorov.ru/dalmatovo/"
+    },
+    {
+        "name": "Катайск",
+        "url": "https://prodoctorov.ru/kataysk/"
+    },
+    {
+        "name": "Курган",
+        "url": "https://prodoctorov.ru/kurgan/"
+    },
+    {
+        "name": "Куртамыш",
+        "url": "https://prodoctorov.ru/kurtamysh/"
+    },
+    {
+        "name": "Макушино",
+        "url": "https://prodoctorov.ru/makushino/"
+    },
+    {
+        "name": "Петухово",
+        "url": "https://prodoctorov.ru/petuhovo/"
+    },
+    {
+        "name": "Шадринск",
+        "url": "https://prodoctorov.ru/shadrinsk/"
+    },
+    {
+        "name": "Шумиха",
+        "url": "https://prodoctorov.ru/shumiha/"
+    },
+    {
+        "name": "Щучье",
+        "url": "https://prodoctorov.ru/shuche/"
+    },
+    {
+        "name": "Алушта",
+        "url": "https://prodoctorov.ru/alushta/"
+    },
+    {
+        "name": "Армянск",
+        "url": "https://prodoctorov.ru/armyansk/"
+    },
+    {
+        "name": "Бахчисарай",
+        "url": "https://prodoctorov.ru/bahchisarai/"
+    },
+    {
+        "name": "Белогорск (Крым)",
+        "url": "https://prodoctorov.ru/belogorsk-krim/"
+    },
+    {
+        "name": "Джанкой",
+        "url": "https://prodoctorov.ru/djankoi/"
+    },
+    {
+        "name": "Евпатория",
+        "url": "https://prodoctorov.ru/evpatoria/"
+    },
+    {
+        "name": "Керчь",
+        "url": "https://prodoctorov.ru/kerch/"
+    },
+    {
+        "name": "Красноперекопск",
+        "url": "https://prodoctorov.ru/krasnoperekopsk/"
+    },
+    {
+        "name": "п. Кировское",
+        "url": "https://prodoctorov.ru/kirovskoe/"
+    },
+    {
+        "name": "п. Нижегорский",
+        "url": "https://prodoctorov.ru/nizhegorskiy/"
+    },
+    {
+        "name": "Саки",
+        "url": "https://prodoctorov.ru/saki/"
+    },
+    {
+        "name": "Севастополь",
+        "url": "https://prodoctorov.ru/sevastopol/"
+    },
+    {
+        "name": "Симферополь",
+        "url": "https://prodoctorov.ru/simferopol/"
+    },
+    {
+        "name": "с. Первомайское",
+        "url": "https://prodoctorov.ru/pervomaiskoe/"
+    },
+    {
+        "name": "Судак",
+        "url": "https://prodoctorov.ru/sudak/"
+    },
+    {
+        "name": "Феодосия",
+        "url": "https://prodoctorov.ru/feodosiya/"
+    },
+    {
+        "name": "Щёлкино",
+        "url": "https://prodoctorov.ru/schelkino/"
+    },
+    {
+        "name": "Ялта",
+        "url": "https://prodoctorov.ru/yalta/"
+    },
+    {
+        "name": "Алапаевск",
+        "url": "https://prodoctorov.ru/alapaevsk/"
+    },
+    {
+        "name": "Арамиль",
+        "url": "https://prodoctorov.ru/aramil/"
+    },
+    {
+        "name": "Артемовский",
+        "url": "https://prodoctorov.ru/artyomovskiy/"
+    },
+    {
+        "name": "Асбест",
+        "url": "https://prodoctorov.ru/asbest/"
+    },
+    {
+        "name": "Березовский",
+        "url": "https://prodoctorov.ru/beryozovskiy/"
+    },
+    {
+        "name": "Богданович",
+        "url": "https://prodoctorov.ru/bogdanovich/"
+    },
+    {
+        "name": "Верхний Тагил",
+        "url": "https://prodoctorov.ru/verhniy-tagil/"
+    },
+    {
+        "name": "Верхняя Пышма",
+        "url": "https://prodoctorov.ru/verhnyaya-pyshma/"
+    },
+    {
+        "name": "Верхняя Салда",
+        "url": "https://prodoctorov.ru/verhnyaya-salda/"
+    },
+    {
+        "name": "Верхняя Тура",
+        "url": "https://prodoctorov.ru/verhnyaya-tura/"
+    },
+    {
+        "name": "Верхотурье",
+        "url": "https://prodoctorov.ru/verhoture/"
+    },
+    {
+        "name": "Волчанск",
+        "url": "https://prodoctorov.ru/volchansk/"
+    },
+    {
+        "name": "Дегтярск",
+        "url": "https://prodoctorov.ru/degtyarsk/"
+    },
+    {
+        "name": "Екатеринбург",
+        "url": "https://prodoctorov.ru/ekaterinburg/"
+    },
+    {
+        "name": "Заречный",
+        "url": "https://prodoctorov.ru/zarechnyy/"
+    },
+    {
+        "name": "Ивдель",
+        "url": "https://prodoctorov.ru/ivdel/"
+    },
+    {
+        "name": "Ирбит",
+        "url": "https://prodoctorov.ru/irbit/"
+    },
+    {
+        "name": "Каменск-Уральский",
+        "url": "https://prodoctorov.ru/kamensk-uralskiy/"
+    },
+    {
+        "name": "Камышлов",
+        "url": "https://prodoctorov.ru/kamyshlov/"
+    },
+    {
+        "name": "Карпинск",
+        "url": "https://prodoctorov.ru/karpinsk/"
+    },
+    {
+        "name": "Качканар",
+        "url": "https://prodoctorov.ru/kachkanar/"
+    },
+    {
+        "name": "Кировград",
+        "url": "https://prodoctorov.ru/kirovgrad/"
+    },
+    {
+        "name": "Краснотурьинск",
+        "url": "https://prodoctorov.ru/krasnoturinsk/"
+    },
+    {
+        "name": "Красноуральск",
+        "url": "https://prodoctorov.ru/krasnouralsk/"
+    },
+    {
+        "name": "Красноуфимск",
+        "url": "https://prodoctorov.ru/krasnoufimsk/"
+    },
+    {
+        "name": "Кушва",
+        "url": "https://prodoctorov.ru/kushva/"
+    },
+    {
+        "name": "Лесной",
+        "url": "https://prodoctorov.ru/lesnoy/"
+    },
+    {
+        "name": "Невьянск",
+        "url": "https://prodoctorov.ru/nevyansk/"
+    },
+    {
+        "name": "Нижние Серги",
+        "url": "https://prodoctorov.ru/nizhnie-sergi/"
+    },
+    {
+        "name": "Нижний Тагил",
+        "url": "https://prodoctorov.ru/nizhniy-tagil/"
+    },
+    {
+        "name": "Нижняя Салда",
+        "url": "https://prodoctorov.ru/nizhnyaya-salda/"
+    },
+    {
+        "name": "Нижняя Тура",
+        "url": "https://prodoctorov.ru/nizhnyaya-tura/"
+    },
+    {
+        "name": "Новая Ляля",
+        "url": "https://prodoctorov.ru/novaya-lyalya/"
+    },
+    {
+        "name": "Новоуральск",
+        "url": "https://prodoctorov.ru/novouralsk/"
+    },
+    {
+        "name": "п. Ачит",
+        "url": "https://prodoctorov.ru/achit/"
+    },
+    {
+        "name": "п. Баранчинский",
+        "url": "https://prodoctorov.ru/baranchinskiy/"
+    },
+    {
+        "name": "п. Белоярский (Свердловская область)",
+        "url": "https://prodoctorov.ru/beloyarskiy-sverdlovskaya/"
+    },
+    {
+        "name": "Первоуральск",
+        "url": "https://prodoctorov.ru/pervouralsk/"
+    },
+    {
+        "name": "п. Красный",
+        "url": "https://prodoctorov.ru/krasniy/"
+    },
+    {
+        "name": "Полевской",
+        "url": "https://prodoctorov.ru/polevskoy/"
+    },
+    {
+        "name": "п. Тугулым",
+        "url": "https://prodoctorov.ru/tugulim/"
+    },
+    {
+        "name": "п. Уфимский",
+        "url": "https://prodoctorov.ru/ufimskiy/"
+    },
+    {
+        "name": "п. Шаля",
+        "url": "https://prodoctorov.ru/shalya/"
+    },
+    {
+        "name": "Ревда",
+        "url": "https://prodoctorov.ru/revda/"
+    },
+    {
+        "name": "Реж",
+        "url": "https://prodoctorov.ru/rezh/"
+    },
+    {
+        "name": "с. Балтым",
+        "url": "https://prodoctorov.ru/baltym/"
+    },
+    {
+        "name": "Североуральск",
+        "url": "https://prodoctorov.ru/severouralsk/"
+    },
+    {
+        "name": "Серов",
+        "url": "https://prodoctorov.ru/serov/"
+    },
+    {
+        "name": "Среднеуральск",
+        "url": "https://prodoctorov.ru/sredneuralsk/"
+    },
+    {
+        "name": "с. Туринская Слобода",
+        "url": "https://prodoctorov.ru/turinskaya-sloboda/"
+    },
+    {
+        "name": "Сухой Лог",
+        "url": "https://prodoctorov.ru/suhoy-log/"
+    },
+    {
+        "name": "Сысерть",
+        "url": "https://prodoctorov.ru/sysert/"
+    },
+    {
+        "name": "Тавда",
+        "url": "https://prodoctorov.ru/tavda/"
+    },
+    {
+        "name": "Талица",
+        "url": "https://prodoctorov.ru/talica/"
+    },
+    {
+        "name": "Туринск",
+        "url": "https://prodoctorov.ru/turinsk/"
+    },
+    {
+        "name": "Абинск",
+        "url": "https://prodoctorov.ru/abinsk/"
+    },
+    {
+        "name": "Адлер",
+        "url": "https://prodoctorov.ru/adler/"
+    },
+    {
+        "name": "Анапа",
+        "url": "https://prodoctorov.ru/anapa/"
+    },
+    {
+        "name": "Апшеронск",
+        "url": "https://prodoctorov.ru/apsheronsk/"
+    },
+    {
+        "name": "Армавир",
+        "url": "https://prodoctorov.ru/armavir/"
+    },
+    {
+        "name": "Белореченск",
+        "url": "https://prodoctorov.ru/belorechensk/"
+    },
+    {
+        "name": "Геленджик",
+        "url": "https://prodoctorov.ru/gelendzhik/"
+    },
+    {
+        "name": "Горячий Ключ",
+        "url": "https://prodoctorov.ru/goryachiy-klyuch/"
+    },
+    {
+        "name": "Гулькевичи",
+        "url": "https://prodoctorov.ru/gulkevichi/"
+    },
+    {
+        "name": "Ейск",
+        "url": "https://prodoctorov.ru/eisk/"
+    },
+    {
+        "name": "Кореновск",
+        "url": "https://prodoctorov.ru/korenovsk/"
+    },
+    {
+        "name": "Краснодар",
+        "url": "https://prodoctorov.ru/krasnodar/"
+    },
+    {
+        "name": "Кропоткин",
+        "url": "https://prodoctorov.ru/kropotkin/"
+    },
+    {
+        "name": "Крымск",
+        "url": "https://prodoctorov.ru/krymsk/"
+    },
+    {
+        "name": "Курганинск",
+        "url": "https://prodoctorov.ru/kurganinsk/"
+    },
+    {
+        "name": "Лабинск",
+        "url": "https://prodoctorov.ru/labinsk/"
+    },
+    {
+        "name": "Новокубанск",
+        "url": "https://prodoctorov.ru/novokubansk/"
+    },
+    {
+        "name": "Новороссийск",
+        "url": "https://prodoctorov.ru/novorossiysk/"
+    },
+    {
+        "name": "п. Ахтырский",
+        "url": "https://prodoctorov.ru/ahtyrskiy/"
+    },
+    {
+        "name": "п. Двубратский",
+        "url": "https://prodoctorov.ru/dvubratskiy/"
+    },
+    {
+        "name": "п. Ильский",
+        "url": "https://prodoctorov.ru/ilskiy/"
+    },
+    {
+        "name": "п. Мостовской",
+        "url": "https://prodoctorov.ru/mostovskoy/"
+    },
+    {
+        "name": "Приморско-Ахтарск",
+        "url": "https://prodoctorov.ru/primorsko-ahtarsk/"
+    },
+    {
+        "name": "с. Белая Глина",
+        "url": "https://prodoctorov.ru/belaya-glina/"
+    },
+    {
+        "name": "с. Вольное",
+        "url": "https://prodoctorov.ru/volnoe/"
+    },
+    {
+        "name": "с. Коноково",
+        "url": "https://prodoctorov.ru/konokovo/"
+    },
+    {
+        "name": "Славянск-на-Кубани",
+        "url": "https://prodoctorov.ru/slavyansk-na-kubani/"
+    },
+    {
+        "name": "Сочи",
+        "url": "https://prodoctorov.ru/sochi/"
+    },
+    {
+        "name": "ст. Брюховецкая",
+        "url": "https://prodoctorov.ru/bruhoveckaya/"
+    },
+    {
+        "name": "ст. Варениковская",
+        "url": "https://prodoctorov.ru/varenikovskaya/"
+    },
+    {
+        "name": "ст. Воронежская",
+        "url": "https://prodoctorov.ru/voronezhskaya/"
+    },
+    {
+        "name": "ст. Восточная",
+        "url": "https://prodoctorov.ru/vostochnaya/"
+    },
+    {
+        "name": "ст. Выселки",
+        "url": "https://prodoctorov.ru/vyselki/"
+    },
+    {
+        "name": "ст. Динская ",
+        "url": "https://prodoctorov.ru/dinskaya/"
+    },
+    {
+        "name": "ст. Елизаветинская",
+        "url": "https://prodoctorov.ru/elizavetinskaya/"
+    },
+    {
+        "name": "ст. Каневская",
+        "url": "https://prodoctorov.ru/kanevskaya/"
+    },
+    {
+        "name": "ст. Кирпильская",
+        "url": "https://prodoctorov.ru/kirpilskaya/"
+    },
+    {
+        "name": "ст. Кущёвская",
+        "url": "https://prodoctorov.ru/kuschevskaya/"
+    },
+    {
+        "name": "ст. Ладожская",
+        "url": "https://prodoctorov.ru/ladozhskaya/"
+    },
+    {
+        "name": "ст. Ленинградская",
+        "url": "https://prodoctorov.ru/leningradskaya-stanica/"
+    },
+    {
+        "name": "ст. Марьянская",
+        "url": "https://prodoctorov.ru/maryanskaya/"
+    },
+    {
+        "name": "ст. Михайловская",
+        "url": "https://prodoctorov.ru/mihailovskaya/"
+    },
+    {
+        "name": "ст. Некрасовская",
+        "url": "https://prodoctorov.ru/nekrasovskaya/"
+    },
+    {
+        "name": "ст. Новолабинская",
+        "url": "https://prodoctorov.ru/novolabinskaya/"
+    },
+    {
+        "name": "ст. Новотитаровская",
+        "url": "https://prodoctorov.ru/nototitorovskaya/"
+    },
+    {
+        "name": "ст. Новощербиновская",
+        "url": "https://prodoctorov.ru/novoscherbinovskaya/"
+    },
+    {
+        "name": "ст. Отрадная",
+        "url": "https://prodoctorov.ru/otradnaya/"
+    },
+    {
+        "name": "ст. Павловская",
+        "url": "https://prodoctorov.ru/pavlovskaya-stanica/"
+    },
+    {
+        "name": "ст. Полтавская",
+        "url": "https://prodoctorov.ru/poltavskaya/"
+    },
+    {
+        "name": "ст. Северская",
+        "url": "https://prodoctorov.ru/severskaya/"
+    },
+    {
+        "name": "ст. Староминская",
+        "url": "https://prodoctorov.ru/starominskaya/"
+    },
+    {
+        "name": "ст. Старомышастовская",
+        "url": "https://prodoctorov.ru/staromishastovskaya/"
+    },
+    {
+        "name": "ст. Старощербиновская",
+        "url": "https://prodoctorov.ru/staroscherbinovskaya/"
+    },
+    {
+        "name": "ст. Тбилисская",
+        "url": "https://prodoctorov.ru/tbilisskaya/"
+    },
+    {
+        "name": "с. Успенское",
+        "url": "https://prodoctorov.ru/uspenskoe/"
+    },
+    {
+        "name": "Темрюк",
+        "url": "https://prodoctorov.ru/temryuk/"
+    },
+    {
+        "name": "Тимашевск",
+        "url": "https://prodoctorov.ru/timashevsk/"
+    },
+    {
+        "name": "Тихорецк",
+        "url": "https://prodoctorov.ru/tihoreck/"
+    },
+    {
+        "name": "Туапсе",
+        "url": "https://prodoctorov.ru/tuapse/"
+    },
+    {
+        "name": "Усть-Лабинск",
+        "url": "https://prodoctorov.ru/ust-labinsk/"
+    },
+    {
+        "name": "Хадыженск",
+        "url": "https://prodoctorov.ru/hadyzhensk/"
+    },
+    {
+        "name": "Артёмовск",
+        "url": "https://prodoctorov.ru/artyomovsk/"
+    },
+    {
+        "name": "Ачинск",
+        "url": "https://prodoctorov.ru/achinsk/"
+    },
+    {
+        "name": "Боготол",
+        "url": "https://prodoctorov.ru/bogotol/"
+    },
+    {
+        "name": "Бородино",
+        "url": "https://prodoctorov.ru/borodino/"
+    },
+    {
+        "name": "Дивногорск",
+        "url": "https://prodoctorov.ru/divnogorsk/"
+    },
+    {
+        "name": "Дудинка",
+        "url": "https://prodoctorov.ru/dudinka/"
+    },
+    {
+        "name": "Енисейск",
+        "url": "https://prodoctorov.ru/enisyaysk/"
+    },
+    {
+        "name": "Железногорск (Красноярский край)",
+        "url": "https://prodoctorov.ru/zheleznogorsk-krasnoyarskiy-kray/"
+    },
+    {
+        "name": "Заозёрный",
+        "url": "https://prodoctorov.ru/zaozyornyy/"
+    },
+    {
+        "name": "Зеленогорск",
+        "url": "https://prodoctorov.ru/zelenogorsk/"
+    },
+    {
+        "name": "Игарка",
+        "url": "https://prodoctorov.ru/igarka/"
+    },
+    {
+        "name": "Иланский",
+        "url": "https://prodoctorov.ru/ilanskiy/"
+    },
+    {
+        "name": "Канск",
+        "url": "https://prodoctorov.ru/kansk/"
+    },
+    {
+        "name": "Кодинск",
+        "url": "https://prodoctorov.ru/kodinsk/"
+    },
+    {
+        "name": "Красноярск",
+        "url": "https://prodoctorov.ru/krasnoyarsk/"
+    },
+    {
+        "name": "Лесосибирск",
+        "url": "https://prodoctorov.ru/lesosibirsk/"
+    },
+    {
+        "name": "Минусинск",
+        "url": "https://prodoctorov.ru/minusinsk/"
+    },
+    {
+        "name": "Назарово",
+        "url": "https://prodoctorov.ru/nazarovo/"
+    },
+    {
+        "name": "Норильск",
+        "url": "https://prodoctorov.ru/norilsk/"
+    },
+    {
+        "name": "Сосновоборск",
+        "url": "https://prodoctorov.ru/sosnovoborsk/"
+    },
+    {
+        "name": "Ужур",
+        "url": "https://prodoctorov.ru/uzhur/"
+    },
+    {
+        "name": "Уяр",
+        "url": "https://prodoctorov.ru/uyar/"
+    },
+    {
+        "name": "Шарыпово",
+        "url": "https://prodoctorov.ru/sharypovo/"
+    },
+    {
+        "name": "Воркута",
+        "url": "https://prodoctorov.ru/vorkuta/"
+    },
+    {
+        "name": "Вуктыл",
+        "url": "https://prodoctorov.ru/vuktyl/"
+    },
+    {
+        "name": "Емва",
+        "url": "https://prodoctorov.ru/emva/"
+    },
+    {
+        "name": "Инта",
+        "url": "https://prodoctorov.ru/inta/"
+    },
+    {
+        "name": "Микунь",
+        "url": "https://prodoctorov.ru/mikun/"
+    },
+    {
+        "name": "Печора",
+        "url": "https://prodoctorov.ru/pechora/"
+    },
+    {
+        "name": "Сосногорск",
+        "url": "https://prodoctorov.ru/sosnogorsk/"
+    },
+    {
+        "name": "Сыктывкар",
+        "url": "https://prodoctorov.ru/syktyvkar/"
+    },
+    {
+        "name": "Усинск",
+        "url": "https://prodoctorov.ru/usinsk/"
+    },
+    {
+        "name": "Ухта",
+        "url": "https://prodoctorov.ru/uhta/"
+    },
+    {
+        "name": "Анжеро-Судженск",
+        "url": "https://prodoctorov.ru/anzhero-sudzhensk/"
+    },
+    {
+        "name": "Белово",
+        "url": "https://prodoctorov.ru/belovo/"
+    },
+    {
+        "name": "Березовский, КО",
+        "url": "https://prodoctorov.ru/beryozovskiy-ko/"
+    },
+    {
+        "name": "Калтан",
+        "url": "https://prodoctorov.ru/kaltan/"
+    },
+    {
+        "name": "Кемерово",
+        "url": "https://prodoctorov.ru/kemerovo/"
+    },
+    {
+        "name": "Киселёвск",
+        "url": "https://prodoctorov.ru/kiselyovsk/"
+    },
+    {
+        "name": "Ленинск-Кузнецкий",
+        "url": "https://prodoctorov.ru/leninsk-kuzneckiy/"
+    },
+    {
+        "name": "Мариинск",
+        "url": "https://prodoctorov.ru/mariinsk/"
+    },
+    {
+        "name": "Междуреченск",
+        "url": "https://prodoctorov.ru/mezhdurechensk/"
+    },
+    {
+        "name": "Мыски",
+        "url": "https://prodoctorov.ru/myski/"
+    },
+    {
+        "name": "Новокузнецк",
+        "url": "https://prodoctorov.ru/novokuzneck/"
+    },
+    {
+        "name": "Осинники",
+        "url": "https://prodoctorov.ru/osinniki/"
+    },
+    {
+        "name": "Полысаево",
+        "url": "https://prodoctorov.ru/polysaevo/"
+    },
+    {
+        "name": "Прокопьевск",
+        "url": "https://prodoctorov.ru/prokopevsk/"
+    },
+    {
+        "name": "Салаир",
+        "url": "https://prodoctorov.ru/salair/"
+    },
+    {
+        "name": "Тайга",
+        "url": "https://prodoctorov.ru/tayga/"
+    },
+    {
+        "name": "Таштагол",
+        "url": "https://prodoctorov.ru/tashtagol/"
+    },
+    {
+        "name": "Топки",
+        "url": "https://prodoctorov.ru/topki/"
+    },
+    {
+        "name": "Юрга",
+        "url": "https://prodoctorov.ru/yurga/"
+    },
+    {
+        "name": "Белая Холуница",
+        "url": "https://prodoctorov.ru/belaya-holunica/"
+    },
+    {
+        "name": "Вятские Поляны",
+        "url": "https://prodoctorov.ru/vyatskie-polyany/"
+    },
+    {
+        "name": "Зуевка",
+        "url": "https://prodoctorov.ru/zuevka/"
+    },
+    {
+        "name": "Киров",
+        "url": "https://prodoctorov.ru/kirov/"
+    },
+    {
+        "name": "Кирово-Чепецк",
+        "url": "https://prodoctorov.ru/kirovo-chepeck/"
+    },
+    {
+        "name": "Кирс",
+        "url": "https://prodoctorov.ru/kirs/"
+    },
+    {
+        "name": "Котельнич",
+        "url": "https://prodoctorov.ru/kotelnich/"
+    },
+    {
+        "name": "Луза",
+        "url": "https://prodoctorov.ru/luza/"
+    },
+    {
+        "name": "Малмыж",
+        "url": "https://prodoctorov.ru/malmyzh/"
+    },
+    {
+        "name": "Мураши",
+        "url": "https://prodoctorov.ru/murashi/"
+    },
+    {
+        "name": "Нолинск",
+        "url": "https://prodoctorov.ru/nolinsk/"
+    },
+    {
+        "name": "Омутнинск",
+        "url": "https://prodoctorov.ru/omutninsk/"
+    },
+    {
+        "name": "Орлов",
+        "url": "https://prodoctorov.ru/orlov/"
+    },
+    {
+        "name": "Слободской",
+        "url": "https://prodoctorov.ru/slobodskoy/"
+    },
+    {
+        "name": "Советск (Кировская область)",
+        "url": "https://prodoctorov.ru/sovetsk-kirov/"
+    },
+    {
+        "name": "Сосновка",
+        "url": "https://prodoctorov.ru/sosnovka/"
+    },
+    {
+        "name": "Уржум",
+        "url": "https://prodoctorov.ru/urzhum/"
+    },
+    {
+        "name": "Яранск",
+        "url": "https://prodoctorov.ru/yaransk/"
+    },
+    {
+        "name": "Карачаевск",
+        "url": "https://prodoctorov.ru/karachaevsk/"
+    },
+    {
+        "name": "Теберда",
+        "url": "https://prodoctorov.ru/teberda/"
+    },
+    {
+        "name": "Усть-Джегута",
+        "url": "https://prodoctorov.ru/ust-dzheguta/"
+    },
+    {
+        "name": "Черкесск",
+        "url": "https://prodoctorov.ru/cherkessk/"
+    },
+    {
+        "name": "Городовиковск",
+        "url": "https://prodoctorov.ru/gorodovikovsk/"
+    },
+    {
+        "name": "Лагань",
+        "url": "https://prodoctorov.ru/lagan/"
+    },
+    {
+        "name": "Элиста",
+        "url": "https://prodoctorov.ru/elista/"
+    },
+    {
+        "name": "Багратионовск",
+        "url": "https://prodoctorov.ru/bagrationovsk/"
+    },
+    {
+        "name": "Балтийск",
+        "url": "https://prodoctorov.ru/baltiysk/"
+    },
+    {
+        "name": "Гвардейск",
+        "url": "https://prodoctorov.ru/gvardyaysk/"
+    },
+    {
+        "name": "Гурьевск",
+        "url": "https://prodoctorov.ru/gurevsk/"
+    },
+    {
+        "name": "Гусев",
+        "url": "https://prodoctorov.ru/gusev/"
+    },
+    {
+        "name": "Зеленоградск",
+        "url": "https://prodoctorov.ru/zelenogradsk/"
+    },
+    {
+        "name": "Калининград",
+        "url": "https://prodoctorov.ru/kaliningrad/"
+    },
+    {
+        "name": "Краснознаменск (Калининградская область)",
+        "url": "https://prodoctorov.ru/krasnoznamensk/"
+    },
+    {
+        "name": "Ладушкин",
+        "url": "https://prodoctorov.ru/ladushkin/"
+    },
+    {
+        "name": "Мамоново",
+        "url": "https://prodoctorov.ru/mamonovo/"
+    },
+    {
+        "name": "Неман",
+        "url": "https://prodoctorov.ru/neman/"
+    },
+    {
+        "name": "Нестеров",
+        "url": "https://prodoctorov.ru/nesterov/"
+    },
+    {
+        "name": "Озёрск(Калининградская)",
+        "url": "https://prodoctorov.ru/ozersk/"
+    },
+    {
+        "name": "Пионерский",
+        "url": "https://prodoctorov.ru/pionerskiy/"
+    },
+    {
+        "name": "Полесск",
+        "url": "https://prodoctorov.ru/polessk/"
+    },
+    {
+        "name": "Правдинск",
+        "url": "https://prodoctorov.ru/pravdinsk/"
+    },
+    {
+        "name": "Светлогорск",
+        "url": "https://prodoctorov.ru/svetlogorsk/"
+    },
+    {
+        "name": "Светлый",
+        "url": "https://prodoctorov.ru/svetlyy/"
+    },
+    {
+        "name": "Славск",
+        "url": "https://prodoctorov.ru/slavsk/"
+    },
+    {
+        "name": "Советск",
+        "url": "https://prodoctorov.ru/sovetsk/"
+    },
+    {
+        "name": "Черняховск",
+        "url": "https://prodoctorov.ru/chernyahovsk/"
+    },
+    {
+        "name": "Баксан",
+        "url": "https://prodoctorov.ru/baksan/"
+    },
+    {
+        "name": "Майский",
+        "url": "https://prodoctorov.ru/mayskiy/"
+    },
+    {
+        "name": "Нальчик",
+        "url": "https://prodoctorov.ru/nalchik/"
+    },
+    {
+        "name": "Нарткала",
+        "url": "https://prodoctorov.ru/nartkala/"
+    },
+    {
+        "name": "Прохладный",
+        "url": "https://prodoctorov.ru/prohladnyy/"
+    },
+    {
+        "name": "Терек",
+        "url": "https://prodoctorov.ru/terek/"
+    },
+    {
+        "name": "Тырныауз",
+        "url": "https://prodoctorov.ru/tyrnyauz/"
+    },
+    {
+        "name": "Чегем",
+        "url": "https://prodoctorov.ru/chegem/"
+    },
+    {
+        "name": "Карабулак",
+        "url": "https://prodoctorov.ru/karabulak/"
+    },
+    {
+        "name": "Магас",
+        "url": "https://prodoctorov.ru/magas/"
+    },
+    {
+        "name": "Малгобек",
+        "url": "https://prodoctorov.ru/malgobek/"
+    },
+    {
+        "name": "Назрань",
+        "url": "https://prodoctorov.ru/nazran/"
+    },
+    {
+        "name": "Балей",
+        "url": "https://prodoctorov.ru/balyay/"
+    },
+    {
+        "name": "Борзя",
+        "url": "https://prodoctorov.ru/borzya/"
+    },
+    {
+        "name": "Краснокаменск",
+        "url": "https://prodoctorov.ru/krasnokamensk/"
+    },
+    {
+        "name": "Могоча",
+        "url": "https://prodoctorov.ru/mogocha/"
+    },
+    {
+        "name": "Нерчинск",
+        "url": "https://prodoctorov.ru/nerchinsk/"
+    },
+    {
+        "name": "Петровск-Забайкальский",
+        "url": "https://prodoctorov.ru/petrovsk-zabaykalskiy/"
+    },
+    {
+        "name": "Сретенск",
+        "url": "https://prodoctorov.ru/sretensk/"
+    },
+    {
+        "name": "Хилок",
+        "url": "https://prodoctorov.ru/hilok/"
+    },
+    {
+        "name": "Чита",
+        "url": "https://prodoctorov.ru/chita/"
+    },
+    {
+        "name": "Шилка",
+        "url": "https://prodoctorov.ru/shilka/"
+    },
+    {
+        "name": "Вичуга",
+        "url": "https://prodoctorov.ru/vichuga/"
+    },
+    {
+        "name": "Гаврилов Посад",
+        "url": "https://prodoctorov.ru/gavrilov-posad/"
+    },
+    {
+        "name": "Заволжск",
+        "url": "https://prodoctorov.ru/zavolzhsk/"
+    },
+    {
+        "name": "Иваново",
+        "url": "https://prodoctorov.ru/ivanovo/"
+    },
+    {
+        "name": "Кинешма",
+        "url": "https://prodoctorov.ru/kineshma/"
+    },
+    {
+        "name": "Комсомольск",
+        "url": "https://prodoctorov.ru/komsomolsk/"
+    },
+    {
+        "name": "Кохма",
+        "url": "https://prodoctorov.ru/kohma/"
+    },
+    {
+        "name": "Наволоки",
+        "url": "https://prodoctorov.ru/navoloki/"
+    },
+    {
+        "name": "Плёс",
+        "url": "https://prodoctorov.ru/plyos/"
+    },
+    {
+        "name": "Приволжск",
+        "url": "https://prodoctorov.ru/privolzhsk/"
+    },
+    {
+        "name": "Пучеж",
+        "url": "https://prodoctorov.ru/puchezh/"
+    },
+    {
+        "name": "Родники",
+        "url": "https://prodoctorov.ru/rodniki/"
+    },
+    {
+        "name": "Тейково",
+        "url": "https://prodoctorov.ru/tyaykovo/"
+    },
+    {
+        "name": "Фурманов",
+        "url": "https://prodoctorov.ru/furmanov/"
+    },
+    {
+        "name": "Шуя",
+        "url": "https://prodoctorov.ru/shuya/"
+    },
+    {
+        "name": "Южа",
+        "url": "https://prodoctorov.ru/yuzha/"
+    },
+    {
+        "name": "Юрьевец",
+        "url": "https://prodoctorov.ru/yurevec/"
+    },
+    {
+        "name": "Биробиджан",
+        "url": "https://prodoctorov.ru/birobidzhan/"
+    },
+    {
+        "name": "Облучье",
+        "url": "https://prodoctorov.ru/obluche/"
+    },
+    {
+        "name": "Бобров",
+        "url": "https://prodoctorov.ru/bobrov/"
+    },
+    {
+        "name": "Богучар",
+        "url": "https://prodoctorov.ru/boguchar/"
+    },
+    {
+        "name": "Борисоглебск",
+        "url": "https://prodoctorov.ru/borisoglebsk/"
+    },
+    {
+        "name": "Бутурлиновка",
+        "url": "https://prodoctorov.ru/buturlinovka/"
+    },
+    {
+        "name": "Воронеж",
+        "url": "https://prodoctorov.ru/voronezh/"
+    },
+    {
+        "name": "Калач",
+        "url": "https://prodoctorov.ru/kalach/"
+    },
+    {
+        "name": "Лиски",
+        "url": "https://prodoctorov.ru/liski/"
+    },
+    {
+        "name": "Нововоронеж",
+        "url": "https://prodoctorov.ru/novovoronezh/"
+    },
+    {
+        "name": "Новохопёрск",
+        "url": "https://prodoctorov.ru/novohopyorsk/"
+    },
+    {
+        "name": "Острогожск",
+        "url": "https://prodoctorov.ru/ostrogozhsk/"
+    },
+    {
+        "name": "Павловск",
+        "url": "https://prodoctorov.ru/pavlovsk/"
+    },
+    {
+        "name": "Поворино",
+        "url": "https://prodoctorov.ru/povorino/"
+    },
+    {
+        "name": "Россошь",
+        "url": "https://prodoctorov.ru/rossosh/"
+    },
+    {
+        "name": "Семилуки",
+        "url": "https://prodoctorov.ru/semiluki/"
+    },
+    {
+        "name": "Эртиль",
+        "url": "https://prodoctorov.ru/ertil/"
+    },
+    {
+        "name": "Астрахань",
+        "url": "https://prodoctorov.ru/astrahan/"
+    },
+    {
+        "name": "Ахтубинск",
+        "url": "https://prodoctorov.ru/ahtubinsk/"
+    },
+    {
+        "name": "Знаменск",
+        "url": "https://prodoctorov.ru/znamensk/"
+    },
+    {
+        "name": "Камызяк",
+        "url": "https://prodoctorov.ru/kamyzyak/"
+    },
+    {
+        "name": "Нариманов",
+        "url": "https://prodoctorov.ru/narimanov/"
+    },
+    {
+        "name": "Харабали",
+        "url": "https://prodoctorov.ru/harabali/"
+    },
+    {
+        "name": "Агидель",
+        "url": "https://prodoctorov.ru/agidel/"
+    },
+    {
+        "name": "Баймак",
+        "url": "https://prodoctorov.ru/baymak/"
+    },
+    {
+        "name": "Белебей",
+        "url": "https://prodoctorov.ru/belebyay/"
+    },
+    {
+        "name": "Белорецк",
+        "url": "https://prodoctorov.ru/beloreck/"
+    },
+    {
+        "name": "Бирск",
+        "url": "https://prodoctorov.ru/birsk/"
+    },
+    {
+        "name": "Благовещенск(Башк.)",
+        "url": "https://prodoctorov.ru/blagoveshensk-bashk/"
+    },
+    {
+        "name": "Давлеканово",
+        "url": "https://prodoctorov.ru/davlekanovo/"
+    },
+    {
+        "name": "Дюртюли",
+        "url": "https://prodoctorov.ru/dyurtyuli/"
+    },
+    {
+        "name": "Ишимбай",
+        "url": "https://prodoctorov.ru/ishimbay/"
+    },
+    {
+        "name": "Кумертау",
+        "url": "https://prodoctorov.ru/kumertau/"
+    },
+    {
+        "name": "Межгорье",
+        "url": "https://prodoctorov.ru/mezhgore/"
+    },
+    {
+        "name": "Мелеуз",
+        "url": "https://prodoctorov.ru/meleuz/"
+    },
+    {
+        "name": "Нефтекамск",
+        "url": "https://prodoctorov.ru/neftekamsk/"
+    },
+    {
+        "name": "Октябрьский",
+        "url": "https://prodoctorov.ru/oktyabrskiy/"
+    },
+    {
+        "name": "Салават",
+        "url": "https://prodoctorov.ru/salavat/"
+    },
+    {
+        "name": "Сибай",
+        "url": "https://prodoctorov.ru/sibay/"
+    },
+    {
+        "name": "с. Исянгулово",
+        "url": "https://prodoctorov.ru/isyangulovo/"
+    },
+    {
+        "name": "Стерлитамак",
+        "url": "https://prodoctorov.ru/sterlitamak/"
+    },
+    {
+        "name": "Туймазы",
+        "url": "https://prodoctorov.ru/tuymazy/"
+    },
+    {
+        "name": "Уфа",
+        "url": "https://prodoctorov.ru/ufa/"
+    },
+    {
+        "name": "Учалы",
+        "url": "https://prodoctorov.ru/uchaly/"
+    },
+    {
+        "name": "Янаул",
+        "url": "https://prodoctorov.ru/yanaul/"
+    },
+    {
+        "name": "Бабушкин",
+        "url": "https://prodoctorov.ru/babushkin/"
+    },
+    {
+        "name": "Гусиноозёрск",
+        "url": "https://prodoctorov.ru/gusinoozyorsk/"
+    },
+    {
+        "name": "Закаменск",
+        "url": "https://prodoctorov.ru/zakamensk/"
+    },
+    {
+        "name": "Кяхта",
+        "url": "https://prodoctorov.ru/kyahta/"
+    },
+    {
+        "name": "Северобайкальск",
+        "url": "https://prodoctorov.ru/severobaykalsk/"
+    },
+    {
+        "name": "Улан-Удэ",
+        "url": "https://prodoctorov.ru/ulan-ude/"
+    },
+    {
+        "name": "Буйнакск",
+        "url": "https://prodoctorov.ru/buynaksk/"
+    },
+    {
+        "name": "Дагестанские Огни",
+        "url": "https://prodoctorov.ru/dagestanskie-ogni/"
+    },
+    {
+        "name": "Дербент",
+        "url": "https://prodoctorov.ru/derbent/"
+    },
+    {
+        "name": "Избербаш",
+        "url": "https://prodoctorov.ru/izberbash/"
+    },
+    {
+        "name": "Каспийск",
+        "url": "https://prodoctorov.ru/kaspiysk/"
+    },
+    {
+        "name": "Кизилюрт",
+        "url": "https://prodoctorov.ru/kizilyurt/"
+    },
+    {
+        "name": "Кизляр",
+        "url": "https://prodoctorov.ru/kizlyar/"
+    },
+    {
+        "name": "Махачкала",
+        "url": "https://prodoctorov.ru/mahachkala/"
+    },
+    {
+        "name": "Хасавюрт",
+        "url": "https://prodoctorov.ru/hasavyurt/"
+    },
+    {
+        "name": "Южно-Сухокумск",
+        "url": "https://prodoctorov.ru/yuzhno-suhokumsk/"
+    },
+    {
+        "name": "Архангельск",
+        "url": "https://prodoctorov.ru/arhangelsk/"
+    },
+    {
+        "name": "Вельск",
+        "url": "https://prodoctorov.ru/velsk/"
+    },
+    {
+        "name": "Каргополь",
+        "url": "https://prodoctorov.ru/kargopol/"
+    },
+    {
+        "name": "Коряжма",
+        "url": "https://prodoctorov.ru/koryazhma/"
+    },
+    {
+        "name": "Котлас",
+        "url": "https://prodoctorov.ru/kotlas/"
+    },
+    {
+        "name": "Мезень",
+        "url": "https://prodoctorov.ru/mezen/"
+    },
+    {
+        "name": "Мирный",
+        "url": "https://prodoctorov.ru/mirnyy/"
+    },
+    {
+        "name": "Новодвинск",
+        "url": "https://prodoctorov.ru/novodvinsk/"
+    },
+    {
+        "name": "Няндома",
+        "url": "https://prodoctorov.ru/nyandoma/"
+    },
+    {
+        "name": "Онега",
+        "url": "https://prodoctorov.ru/onega/"
+    },
+    {
+        "name": "Северодвинск",
+        "url": "https://prodoctorov.ru/severodvinsk/"
+    },
+    {
+        "name": "Сольвычегодск",
+        "url": "https://prodoctorov.ru/solvychegodsk/"
+    },
+    {
+        "name": "Шенкурск",
+        "url": "https://prodoctorov.ru/shenkursk/"
+    },
+    {
+        "name": "Брянск",
+        "url": "https://prodoctorov.ru/bryansk/"
+    },
+    {
+        "name": "Дятьково",
+        "url": "https://prodoctorov.ru/dyatkovo/"
+    },
+    {
+        "name": "Жуковка",
+        "url": "https://prodoctorov.ru/zhukovka/"
+    },
+    {
+        "name": "Злынка",
+        "url": "https://prodoctorov.ru/zlynka/"
+    },
+    {
+        "name": "Карачев",
+        "url": "https://prodoctorov.ru/karachev/"
+    },
+    {
+        "name": "Клинцы",
+        "url": "https://prodoctorov.ru/klincy/"
+    },
+    {
+        "name": "Мглин",
+        "url": "https://prodoctorov.ru/mglin/"
+    },
+    {
+        "name": "Новозыбков",
+        "url": "https://prodoctorov.ru/novozybkov/"
+    },
+    {
+        "name": "Почеп",
+        "url": "https://prodoctorov.ru/pochep/"
+    },
+    {
+        "name": "Севск",
+        "url": "https://prodoctorov.ru/sevsk/"
+    },
+    {
+        "name": "Сельцо",
+        "url": "https://prodoctorov.ru/selco/"
+    },
+    {
+        "name": "Стародуб",
+        "url": "https://prodoctorov.ru/starodub/"
+    },
+    {
+        "name": "Сураж",
+        "url": "https://prodoctorov.ru/surazh/"
+    },
+    {
+        "name": "Трубчевск",
+        "url": "https://prodoctorov.ru/trubchevsk/"
+    },
+    {
+        "name": "Унеча",
+        "url": "https://prodoctorov.ru/unecha/"
+    },
+    {
+        "name": "Фокино (Брянская область)",
+        "url": "https://prodoctorov.ru/fokino-bryanskaya-oblast/"
+    },
+    {
+        "name": "Алатырь",
+        "url": "https://prodoctorov.ru/alatyr/"
+    },
+    {
+        "name": "Канаш",
+        "url": "https://prodoctorov.ru/kanash/"
+    },
+    {
+        "name": "Козловка",
+        "url": "https://prodoctorov.ru/kozlovka/"
+    },
+    {
+        "name": "Мариинский Посад",
+        "url": "https://prodoctorov.ru/mariinskiy-posad/"
+    },
+    {
+        "name": "Новочебоксарск",
+        "url": "https://prodoctorov.ru/novocheboksarsk/"
+    },
+    {
+        "name": "п. Вурнары",
+        "url": "https://prodoctorov.ru/vurnary/"
+    },
+    {
+        "name": "п. Ибреси",
+        "url": "https://prodoctorov.ru/ibresi/"
+    },
+    {
+        "name": "п.Кугеси",
+        "url": "https://prodoctorov.ru/kupesi/"
+    },
+    {
+        "name": "п. Урмары",
+        "url": "https://prodoctorov.ru/urmary/"
+    },
+    {
+        "name": "с. Аликово",
+        "url": "https://prodoctorov.ru/alikovo/"
+    },
+    {
+        "name": "с. Батырево",
+        "url": "https://prodoctorov.ru/batyrevo/"
+    },
+    {
+        "name": "с. Комсомольское",
+        "url": "https://prodoctorov.ru/komsomolskoe/"
+    },
+    {
+        "name": "с. Красноармейское",
+        "url": "https://prodoctorov.ru/krasnoarmyayskoe/"
+    },
+    {
+        "name": "с. Красные Четаи",
+        "url": "https://prodoctorov.ru/krasnye-chetai/"
+    },
+    {
+        "name": "с. Моргауши",
+        "url": "https://prodoctorov.ru/morgaushi/"
+    },
+    {
+        "name": "с. Порецкое",
+        "url": "https://prodoctorov.ru/poreckoe/"
+    },
+    {
+        "name": "с. Шемурша",
+        "url": "https://prodoctorov.ru/shemursha/"
+    },
+    {
+        "name": "с. Шихазаны",
+        "url": "https://prodoctorov.ru/shihazani/"
+    },
+    {
+        "name": "с. Яльчики",
+        "url": "https://prodoctorov.ru/yalchiki/"
+    },
+    {
+        "name": "с. Янтиково",
+        "url": "https://prodoctorov.ru/yantikovo/"
+    },
+    {
+        "name": "Цивильск",
+        "url": "https://prodoctorov.ru/civilsk/"
+    },
+    {
+        "name": "Чебоксары",
+        "url": "https://prodoctorov.ru/cheboksary/"
+    },
+    {
+        "name": "Шумерля",
+        "url": "https://prodoctorov.ru/shumerlya/"
+    },
+    {
+        "name": "Ядрин",
+        "url": "https://prodoctorov.ru/yadrin/"
+    },
+    {
+        "name": "Бабаево",
+        "url": "https://prodoctorov.ru/babaevo/"
+    },
+    {
+        "name": "Белозерск",
+        "url": "https://prodoctorov.ru/belozersk/"
+    },
+    {
+        "name": "Великий Устюг",
+        "url": "https://prodoctorov.ru/velikiy-ustyug/"
+    },
+    {
+        "name": "Вологда",
+        "url": "https://prodoctorov.ru/vologda/"
+    },
+    {
+        "name": "Вытегра",
+        "url": "https://prodoctorov.ru/vytegra/"
+    },
+    {
+        "name": "Грязовец",
+        "url": "https://prodoctorov.ru/gryazovec/"
+    },
+    {
+        "name": "Кадников",
+        "url": "https://prodoctorov.ru/kadnikov/"
+    },
+    {
+        "name": "Кириллов",
+        "url": "https://prodoctorov.ru/kirillov/"
+    },
+    {
+        "name": "Красавино",
+        "url": "https://prodoctorov.ru/krasavino/"
+    },
+    {
+        "name": "Никольск(Вологодская)",
+        "url": "https://prodoctorov.ru/nikolsk-volog/"
+    },
+    {
+        "name": "Сокол",
+        "url": "https://prodoctorov.ru/sokol/"
+    },
+    {
+        "name": "Тотьма",
+        "url": "https://prodoctorov.ru/totma/"
+    },
+    {
+        "name": "Устюжна",
+        "url": "https://prodoctorov.ru/ustyuzhna/"
+    },
+    {
+        "name": "Харовск",
+        "url": "https://prodoctorov.ru/harovsk/"
+    },
+    {
+        "name": "Череповец",
+        "url": "https://prodoctorov.ru/cherepovec/"
+    },
+    {
+        "name": "Белогорск",
+        "url": "https://prodoctorov.ru/belogorsk/"
+    },
+    {
+        "name": "Благовещенск",
+        "url": "https://prodoctorov.ru/blagoveshensk/"
+    },
+    {
+        "name": "Завитинск",
+        "url": "https://prodoctorov.ru/zavitinsk/"
+    },
+    {
+        "name": "Зея",
+        "url": "https://prodoctorov.ru/zeya/"
+    },
+    {
+        "name": "Райчихинск",
+        "url": "https://prodoctorov.ru/raychihinsk/"
+    },
+    {
+        "name": "Свободный",
+        "url": "https://prodoctorov.ru/svobodnyy/"
+    },
+    {
+        "name": "Сковородино",
+        "url": "https://prodoctorov.ru/skovorodino/"
+    },
+    {
+        "name": "Тында",
+        "url": "https://prodoctorov.ru/tynda/"
+    },
+    {
+        "name": "Шимановск",
+        "url": "https://prodoctorov.ru/shimanovsk/"
+    },
+    {
+        "name": "Горно-Алтайск",
+        "url": "https://prodoctorov.ru/gorno-altaysk/"
+    },
+    {
+        "name": "Александров",
+        "url": "https://prodoctorov.ru/aleksandrov/"
+    },
+    {
+        "name": "Владимир",
+        "url": "https://prodoctorov.ru/vladimir/"
+    },
+    {
+        "name": "Вязники",
+        "url": "https://prodoctorov.ru/vyazniki/"
+    },
+    {
+        "name": "Гороховец",
+        "url": "https://prodoctorov.ru/gorohovec/"
+    },
+    {
+        "name": "Гусь-Хрустальный",
+        "url": "https://prodoctorov.ru/gus-hrustalnyy/"
+    },
+    {
+        "name": "Камешково",
+        "url": "https://prodoctorov.ru/kameshkovo/"
+    },
+    {
+        "name": "Карабаново",
+        "url": "https://prodoctorov.ru/karabanovo/"
+    },
+    {
+        "name": "Киржач",
+        "url": "https://prodoctorov.ru/kirzhach/"
+    },
+    {
+        "name": "Ковров",
+        "url": "https://prodoctorov.ru/kovrov/"
+    },
+    {
+        "name": "Кольчугино",
+        "url": "https://prodoctorov.ru/kolchugino/"
+    },
+    {
+        "name": "Костерёво",
+        "url": "https://prodoctorov.ru/kosteryovo/"
+    },
+    {
+        "name": "Курлово",
+        "url": "https://prodoctorov.ru/kurlovo/"
+    },
+    {
+        "name": "Лакинск",
+        "url": "https://prodoctorov.ru/lakinsk/"
+    },
+    {
+        "name": "Меленки",
+        "url": "https://prodoctorov.ru/melenki/"
+    },
+    {
+        "name": "Муром",
+        "url": "https://prodoctorov.ru/murom/"
+    },
+    {
+        "name": "Петушки",
+        "url": "https://prodoctorov.ru/petushki/"
+    },
+    {
+        "name": "Покров",
+        "url": "https://prodoctorov.ru/pokrov/"
+    },
+    {
+        "name": "Радужный(Влад. обл)",
+        "url": "https://prodoctorov.ru/raduzhnyy-vlad/"
+    },
+    {
+        "name": "Собинка",
+        "url": "https://prodoctorov.ru/sobinka/"
+    },
+    {
+        "name": "Струнино",
+        "url": "https://prodoctorov.ru/strunino/"
+    },
+    {
+        "name": "Судогда",
+        "url": "https://prodoctorov.ru/sudogda/"
+    },
+    {
+        "name": "Суздаль",
+        "url": "https://prodoctorov.ru/suzdal/"
+    },
+    {
+        "name": "Юрьев-Польский",
+        "url": "https://prodoctorov.ru/yurev-polskiy/"
+    },
+    {
+        "name": "Арзамас",
+        "url": "https://prodoctorov.ru/arzamas/"
+    },
+    {
+        "name": "Балахна",
+        "url": "https://prodoctorov.ru/balahna/"
+    },
+    {
+        "name": "Богородск",
+        "url": "https://prodoctorov.ru/bogorodsk/"
+    },
+    {
+        "name": "Бор",
+        "url": "https://prodoctorov.ru/bor/"
+    },
+    {
+        "name": "Ветлуга",
+        "url": "https://prodoctorov.ru/vetluga/"
+    },
+    {
+        "name": "Володарск",
+        "url": "https://prodoctorov.ru/volodarsk/"
+    },
+    {
+        "name": "Ворсма",
+        "url": "https://prodoctorov.ru/vorsma/"
+    },
+    {
+        "name": "Выкса",
+        "url": "https://prodoctorov.ru/vyksa/"
+    },
+    {
+        "name": "Горбатов",
+        "url": "https://prodoctorov.ru/gorbatov/"
+    },
+    {
+        "name": "Городец",
+        "url": "https://prodoctorov.ru/gorodec/"
+    },
+    {
+        "name": "Дзержинск",
+        "url": "https://prodoctorov.ru/dzerzhinsk/"
+    },
+    {
+        "name": "Заволжье",
+        "url": "https://prodoctorov.ru/zavolzhe/"
+    },
+    {
+        "name": "Княгинино",
+        "url": "https://prodoctorov.ru/knyaginino/"
+    },
+    {
+        "name": "Кстово",
+        "url": "https://prodoctorov.ru/kstovo/"
+    },
+    {
+        "name": "Кулебаки",
+        "url": "https://prodoctorov.ru/kulebaki/"
+    },
+    {
+        "name": "Лукоянов",
+        "url": "https://prodoctorov.ru/lukoyanov/"
+    },
+    {
+        "name": "Лысково",
+        "url": "https://prodoctorov.ru/lyskovo/"
+    },
+    {
+        "name": "Навашино",
+        "url": "https://prodoctorov.ru/navashino/"
+    },
+    {
+        "name": "Нижний Новгород",
+        "url": "https://prodoctorov.ru/nnovgorod/"
+    },
+    {
+        "name": "Павлово",
+        "url": "https://prodoctorov.ru/pavlovo/"
+    },
+    {
+        "name": "Первомайск",
+        "url": "https://prodoctorov.ru/pervomaysk/"
+    },
+    {
+        "name": "Перевоз",
+        "url": "https://prodoctorov.ru/perevoz/"
+    },
+    {
+        "name": "Саров",
+        "url": "https://prodoctorov.ru/sarov/"
+    },
+    {
+        "name": "Семёнов",
+        "url": "https://prodoctorov.ru/semyonov/"
+    },
+    {
+        "name": "Сергач",
+        "url": "https://prodoctorov.ru/sergach/"
+    },
+    {
+        "name": "Урень",
+        "url": "https://prodoctorov.ru/uren/"
+    },
+    {
+        "name": "Чкаловск",
+        "url": "https://prodoctorov.ru/chkalovsk/"
+    },
+    {
+        "name": "Шахунья",
+        "url": "https://prodoctorov.ru/shahunya/"
+    },
+    {
+        "name": "Грязи",
+        "url": "https://prodoctorov.ru/gryazi/"
+    },
+    {
+        "name": "Данков",
+        "url": "https://prodoctorov.ru/dankov/"
+    },
+    {
+        "name": "Елец",
+        "url": "https://prodoctorov.ru/elec/"
+    },
+    {
+        "name": "Задонск",
+        "url": "https://prodoctorov.ru/zadonsk/"
+    },
+    {
+        "name": "Лебедянь",
+        "url": "https://prodoctorov.ru/lebedyan/"
+    },
+    {
+        "name": "Липецк",
+        "url": "https://prodoctorov.ru/lipeck/"
+    },
+    {
+        "name": "Усмань",
+        "url": "https://prodoctorov.ru/usman/"
+    },
+    {
+        "name": "Чаплыгин",
+        "url": "https://prodoctorov.ru/chaplygin/"
+    },
+    {
+        "name": "Азов",
+        "url": "https://prodoctorov.ru/azov/"
+    },
+    {
+        "name": "Аксай",
+        "url": "https://prodoctorov.ru/aksay/"
+    },
+    {
+        "name": "Батайск",
+        "url": "https://prodoctorov.ru/bataysk/"
+    },
+    {
+        "name": "Белая Калитва",
+        "url": "https://prodoctorov.ru/belaya-kalitva/"
+    },
+    {
+        "name": "Волгодонск",
+        "url": "https://prodoctorov.ru/volgodonsk/"
+    },
+    {
+        "name": "Гуково",
+        "url": "https://prodoctorov.ru/gukovo/"
+    },
+    {
+        "name": "Донецк",
+        "url": "https://prodoctorov.ru/doneck/"
+    },
+    {
+        "name": "Зверево",
+        "url": "https://prodoctorov.ru/zverevo/"
+    },
+    {
+        "name": "Зерноград",
+        "url": "https://prodoctorov.ru/zernograd/"
+    },
+    {
+        "name": "Каменск-Шахтинский",
+        "url": "https://prodoctorov.ru/kamensk-shahtinskiy/"
+    },
+    {
+        "name": "Константиновск",
+        "url": "https://prodoctorov.ru/konstantinovsk/"
+    },
+    {
+        "name": "Красный Сулин",
+        "url": "https://prodoctorov.ru/krasnyy-sulin/"
+    },
+    {
+        "name": "Миллерово",
+        "url": "https://prodoctorov.ru/millerovo/"
+    },
+    {
+        "name": "Морозовск",
+        "url": "https://prodoctorov.ru/morozovsk/"
+    },
+    {
+        "name": "Новочеркасск",
+        "url": "https://prodoctorov.ru/novocherkassk/"
+    },
+    {
+        "name": "Новошахтинск",
+        "url": "https://prodoctorov.ru/novoshahtinsk/"
+    },
+    {
+        "name": "п. Матвеев-Курган",
+        "url": "https://prodoctorov.ru/matveev-kurgan/"
+    },
+    {
+        "name": "п. Орловский",
+        "url": "https://prodoctorov.ru/orlovskiy/"
+    },
+    {
+        "name": "Пролетарск",
+        "url": "https://prodoctorov.ru/proletarsk/"
+    },
+    {
+        "name": "Ростов-на-Дону",
+        "url": "https://prodoctorov.ru/rostov-na-donu/"
+    },
+    {
+        "name": "Сальск",
+        "url": "https://prodoctorov.ru/salsk/"
+    },
+    {
+        "name": "Семикаракорск",
+        "url": "https://prodoctorov.ru/semikarakorsk/"
+    },
+    {
+        "name": "ст. Багаевская",
+        "url": "https://prodoctorov.ru/bagaevskaya/"
+    },
+    {
+        "name": "ст. Егорлыкская",
+        "url": "https://prodoctorov.ru/egorlikskaya/"
+    },
+    {
+        "name": "Таганрог",
+        "url": "https://prodoctorov.ru/taganrog/"
+    },
+    {
+        "name": "Цимлянск",
+        "url": "https://prodoctorov.ru/cimlyansk/"
+    },
+    {
+        "name": "Шахты",
+        "url": "https://prodoctorov.ru/shahty/"
+    },
+    {
+        "name": "Вилючинск",
+        "url": "https://prodoctorov.ru/vilyuchinsk/"
+    },
+    {
+        "name": "Елизово",
+        "url": "https://prodoctorov.ru/elizovo/"
+    },
+    {
+        "name": "Петропавловск-Камчатский",
+        "url": "https://prodoctorov.ru/petropavlovsk-kamchatskiy/"
+    },
+    {
+        "name": "Алексеевка",
+        "url": "https://prodoctorov.ru/alekseevka/"
+    },
+    {
+        "name": "Белгород",
+        "url": "https://prodoctorov.ru/belgorod/"
+    },
+    {
+        "name": "Бирюч",
+        "url": "https://prodoctorov.ru/biryuch/"
+    },
+    {
+        "name": "Валуйки",
+        "url": "https://prodoctorov.ru/valuyki/"
+    },
+    {
+        "name": "Грайворон",
+        "url": "https://prodoctorov.ru/grayvoron/"
+    },
+    {
+        "name": "Губкин",
+        "url": "https://prodoctorov.ru/gubkin/"
+    },
+    {
+        "name": "Короча",
+        "url": "https://prodoctorov.ru/korocha/"
+    },
+    {
+        "name": "Новый Оскол",
+        "url": "https://prodoctorov.ru/novyy-oskol/"
+    },
+    {
+        "name": "Старый Оскол",
+        "url": "https://prodoctorov.ru/staryy-oskol/"
+    },
+    {
+        "name": "Строитель",
+        "url": "https://prodoctorov.ru/stroitel/"
+    },
+    {
+        "name": "Шебекино",
+        "url": "https://prodoctorov.ru/shebekino/"
+    },
+    {
+        "name": "Беломорск",
+        "url": "https://prodoctorov.ru/belomorsk/"
+    },
+    {
+        "name": "Кемь",
+        "url": "https://prodoctorov.ru/kem/"
+    },
+    {
+        "name": "Кондопога",
+        "url": "https://prodoctorov.ru/kondopoga/"
+    },
+    {
+        "name": "Костомукша",
+        "url": "https://prodoctorov.ru/kostomuksha/"
+    },
+    {
+        "name": "Лахденпохья",
+        "url": "https://prodoctorov.ru/lahdenpohya/"
+    },
+    {
+        "name": "Медвежьегорск",
+        "url": "https://prodoctorov.ru/medvezhegorsk/"
+    },
+    {
+        "name": "Олонец",
+        "url": "https://prodoctorov.ru/olonec/"
+    },
+    {
+        "name": "Петрозаводск",
+        "url": "https://prodoctorov.ru/petrozavodsk/"
+    },
+    {
+        "name": "Питкяранта",
+        "url": "https://prodoctorov.ru/pitkyaranta/"
+    },
+    {
+        "name": "Пудож",
+        "url": "https://prodoctorov.ru/pudozh/"
+    },
+    {
+        "name": "Сегежа",
+        "url": "https://prodoctorov.ru/segezha/"
+    },
+    {
+        "name": "Сортавала",
+        "url": "https://prodoctorov.ru/sortavala/"
+    },
+    {
+        "name": "Суоярви",
+        "url": "https://prodoctorov.ru/suoyarvi/"
+    },
+    {
+        "name": "Апрелевка",
+        "url": "https://prodoctorov.ru/aprelevka/"
+    },
+    {
+        "name": "Балашиха",
+        "url": "https://prodoctorov.ru/balashiha/"
+    },
+    {
+        "name": "Бронницы",
+        "url": "https://prodoctorov.ru/bronnicy/"
+    },
+    {
+        "name": "Верея",
+        "url": "https://prodoctorov.ru/vereya/"
+    },
+    {
+        "name": "Видное",
+        "url": "https://prodoctorov.ru/vidnoe/"
+    },
+    {
+        "name": "Волоколамск",
+        "url": "https://prodoctorov.ru/volokolamsk/"
+    },
+    {
+        "name": "Воскресенск",
+        "url": "https://prodoctorov.ru/voskresensk/"
+    },
+    {
+        "name": "Высоковск",
+        "url": "https://prodoctorov.ru/vysokovsk/"
+    },
+    {
+        "name": "Голицыно",
+        "url": "https://prodoctorov.ru/golicyno/"
+    },
+    {
+        "name": "Дедовск",
+        "url": "https://prodoctorov.ru/dedovsk/"
+    },
+    {
+        "name": "Дзержинский",
+        "url": "https://prodoctorov.ru/dzerzhinskiy/"
+    },
+    {
+        "name": "Дмитров",
+        "url": "https://prodoctorov.ru/dmitrov/"
+    },
+    {
+        "name": "Долгопрудный",
+        "url": "https://prodoctorov.ru/dolgoprudnyy/"
+    },
+    {
+        "name": "Домодедово",
+        "url": "https://prodoctorov.ru/domodedovo/"
+    },
+    {
+        "name": "Дрезна",
+        "url": "https://prodoctorov.ru/drezna/"
+    },
+    {
+        "name": "Дубна",
+        "url": "https://prodoctorov.ru/dubna/"
+    },
+    {
+        "name": "Егорьевск",
+        "url": "https://prodoctorov.ru/egorevsk/"
+    },
+    {
+        "name": "Железнодорожный (Балашиха)",
+        "url": "https://prodoctorov.ru/zheleznodorozhnyy/"
+    },
+    {
+        "name": "Жуковский",
+        "url": "https://prodoctorov.ru/zhukovskiy/"
+    },
+    {
+        "name": "Зарайск",
+        "url": "https://prodoctorov.ru/zaraysk/"
+    },
+    {
+        "name": "Звенигород",
+        "url": "https://prodoctorov.ru/zvenigorod/"
+    },
+    {
+        "name": "Ивантеевка",
+        "url": "https://prodoctorov.ru/ivanteevka/"
+    },
+    {
+        "name": "Истра",
+        "url": "https://prodoctorov.ru/istra/"
+    },
+    {
+        "name": "Кашира",
+        "url": "https://prodoctorov.ru/kashira/"
+    },
+    {
+        "name": "Климовск",
+        "url": "https://prodoctorov.ru/klimovsk/"
+    },
+    {
+        "name": "Клин",
+        "url": "https://prodoctorov.ru/klin/"
+    },
+    {
+        "name": "Коломна",
+        "url": "https://prodoctorov.ru/kolomna/"
+    },
+    {
+        "name": "Королёв",
+        "url": "https://prodoctorov.ru/korolyov/"
+    },
+    {
+        "name": "Котельники",
+        "url": "https://prodoctorov.ru/kotelniki/"
+    },
+    {
+        "name": "Красноармейск",
+        "url": "https://prodoctorov.ru/krasnoarmyaysk-mosk/"
+    },
+    {
+        "name": "Красногорск",
+        "url": "https://prodoctorov.ru/krasnogorsk/"
+    },
+    {
+        "name": "Краснозаводск",
+        "url": "https://prodoctorov.ru/krasnozavodsk/"
+    },
+    {
+        "name": "Краснознаменск",
+        "url": "https://prodoctorov.ru/krasnoznamensk-mo/"
+    },
+    {
+        "name": "Кубинка",
+        "url": "https://prodoctorov.ru/kubinka/"
+    },
+    {
+        "name": "Куровское",
+        "url": "https://prodoctorov.ru/kurovskoe/"
+    },
+    {
+        "name": "Ликино-Дулёво",
+        "url": "https://prodoctorov.ru/likino-dulyovo/"
+    },
+    {
+        "name": "Лобня",
+        "url": "https://prodoctorov.ru/lobnya/"
+    },
+    {
+        "name": "Лосино-Петровский",
+        "url": "https://prodoctorov.ru/losino-petrovskiy/"
+    },
+    {
+        "name": "Луховицы",
+        "url": "https://prodoctorov.ru/luhovicy/"
+    },
+    {
+        "name": "Лыткарино",
+        "url": "https://prodoctorov.ru/lytkarino/"
+    },
+    {
+        "name": "Люберцы",
+        "url": "https://prodoctorov.ru/lyubercy/"
+    },
+    {
+        "name": "Можайск",
+        "url": "https://prodoctorov.ru/mozhaysk/"
+    },
+    {
+        "name": "Москва",
+        "url": "https://prodoctorov.ru/moskva/"
+    },
+    {
+        "name": "Московский",
+        "url": "https://prodoctorov.ru/moskovskiy/"
+    },
+    {
+        "name": "Мытищи",
+        "url": "https://prodoctorov.ru/mytishi/"
+    },
+    {
+        "name": "Наро-Фоминск",
+        "url": "https://prodoctorov.ru/naro-fominsk/"
+    },
+    {
+        "name": "Ногинск",
+        "url": "https://prodoctorov.ru/noginsk/"
+    },
+    {
+        "name": "Одинцово",
+        "url": "https://prodoctorov.ru/odincovo/"
+    },
+    {
+        "name": "Ожерелье",
+        "url": "https://prodoctorov.ru/ozherele/"
+    },
+    {
+        "name": "Озёры",
+        "url": "https://prodoctorov.ru/ozyory/"
+    },
+    {
+        "name": "Орехово-Зуево",
+        "url": "https://prodoctorov.ru/orehovo-zuevo/"
+    },
+    {
+        "name": "Павловский Посад",
+        "url": "https://prodoctorov.ru/pavlovskiy-posad/"
+    },
+    {
+        "name": "Пересвет",
+        "url": "https://prodoctorov.ru/peresvet/"
+    },
+    {
+        "name": "Подольск",
+        "url": "https://prodoctorov.ru/podolsk/"
+    },
+    {
+        "name": "Протвино",
+        "url": "https://prodoctorov.ru/protvino/"
+    },
+    {
+        "name": "Пушкино",
+        "url": "https://prodoctorov.ru/pushkino/"
+    },
+    {
+        "name": "Пущино",
+        "url": "https://prodoctorov.ru/pushino/"
+    },
+    {
+        "name": "п. Хорлово",
+        "url": "https://prodoctorov.ru/horlovo/"
+    },
+    {
+        "name": "Раменское",
+        "url": "https://prodoctorov.ru/ramenskoe/"
+    },
+    {
+        "name": "Реутов",
+        "url": "https://prodoctorov.ru/reutov/"
+    },
+    {
+        "name": "Рошаль",
+        "url": "https://prodoctorov.ru/roshal/"
+    },
+    {
+        "name": "Руза",
+        "url": "https://prodoctorov.ru/ruza/"
+    },
+    {
+        "name": "Сергиев Посад",
+        "url": "https://prodoctorov.ru/sergiev-posad/"
+    },
+    {
+        "name": "Серпухов",
+        "url": "https://prodoctorov.ru/serpuhov/"
+    },
+    {
+        "name": "Солнечногорск",
+        "url": "https://prodoctorov.ru/solnechnogorsk/"
+    },
+    {
+        "name": "Старая Купавна",
+        "url": "https://prodoctorov.ru/staraya-kupavna/"
+    },
+    {
+        "name": "Ступино",
+        "url": "https://prodoctorov.ru/stupino/"
+    },
+    {
+        "name": "Талдом",
+        "url": "https://prodoctorov.ru/taldom/"
+    },
+    {
+        "name": "Троицк",
+        "url": "https://prodoctorov.ru/troick-mosk/"
+    },
+    {
+        "name": "Фрязино",
+        "url": "https://prodoctorov.ru/fryazino/"
+    },
+    {
+        "name": "Химки",
+        "url": "https://prodoctorov.ru/himki/"
+    },
+    {
+        "name": "Хотьково",
+        "url": "https://prodoctorov.ru/hotkovo/"
+    },
+    {
+        "name": "Черноголовка",
+        "url": "https://prodoctorov.ru/chernogolovka/"
+    },
+    {
+        "name": "Чехов",
+        "url": "https://prodoctorov.ru/chehov/"
+    },
+    {
+        "name": "Шатура",
+        "url": "https://prodoctorov.ru/shatura/"
+    },
+    {
+        "name": "Щербинка",
+        "url": "https://prodoctorov.ru/sherbinka/"
+    },
+    {
+        "name": "Щёлково",
+        "url": "https://prodoctorov.ru/shyolkovo/"
+    },
+    {
+        "name": "Электрогорск",
+        "url": "https://prodoctorov.ru/elektrogorsk/"
+    },
+    {
+        "name": "Электросталь",
+        "url": "https://prodoctorov.ru/elektrostal/"
+    },
+    {
+        "name": "Электроугли",
+        "url": "https://prodoctorov.ru/elektrougli/"
+    },
+    {
+        "name": "Юбилейный",
+        "url": "https://prodoctorov.ru/yubilyaynyy/"
+    },
+    {
+        "name": "Яхрома",
+        "url": "https://prodoctorov.ru/yahroma/"
+    },
+    {
+        "name": "Аркадак",
+        "url": "https://prodoctorov.ru/arkadak/"
+    },
+    {
+        "name": "Аткарск",
+        "url": "https://prodoctorov.ru/atkarsk/"
+    },
+    {
+        "name": "Балаково",
+        "url": "https://prodoctorov.ru/balakovo/"
+    },
+    {
+        "name": "Балашов",
+        "url": "https://prodoctorov.ru/balashov/"
+    },
+    {
+        "name": "Вольск",
+        "url": "https://prodoctorov.ru/volsk/"
+    },
+    {
+        "name": "Ершов",
+        "url": "https://prodoctorov.ru/ershov/"
+    },
+    {
+        "name": "Калининск",
+        "url": "https://prodoctorov.ru/kalininsk/"
+    },
+    {
+        "name": "Красноармейск, СО",
+        "url": "https://prodoctorov.ru/krasnoarmyaysk-so/"
+    },
+    {
+        "name": "Красный Кут",
+        "url": "https://prodoctorov.ru/krasnyy-kut/"
+    },
+    {
+        "name": "Маркс",
+        "url": "https://prodoctorov.ru/marks/"
+    },
+    {
+        "name": "Новоузенск",
+        "url": "https://prodoctorov.ru/novouzensk/"
+    },
+    {
+        "name": "Петровск",
+        "url": "https://prodoctorov.ru/petrovsk/"
+    },
+    {
+        "name": "Пугачёв",
+        "url": "https://prodoctorov.ru/pugachyov/"
+    },
+    {
+        "name": "Ртищево",
+        "url": "https://prodoctorov.ru/rtishevo/"
+    },
+    {
+        "name": "Саратов",
+        "url": "https://prodoctorov.ru/saratov/"
+    },
+    {
+        "name": "Хвалынск",
+        "url": "https://prodoctorov.ru/hvalynsk/"
+    },
+    {
+        "name": "Шиханы",
+        "url": "https://prodoctorov.ru/shihany/"
+    },
+    {
+        "name": "Энгельс",
+        "url": "https://prodoctorov.ru/engels/"
+    },
+    {
+        "name": "Алагир",
+        "url": "https://prodoctorov.ru/alagir/"
+    },
+    {
+        "name": "Ардон",
+        "url": "https://prodoctorov.ru/ardon/"
+    },
+    {
+        "name": "Беслан",
+        "url": "https://prodoctorov.ru/beslan/"
+    },
+    {
+        "name": "Владикавказ",
+        "url": "https://prodoctorov.ru/vladikavkaz/"
+    },
+    {
+        "name": "Дигора",
+        "url": "https://prodoctorov.ru/digora/"
+    },
+    {
+        "name": "Моздок",
+        "url": "https://prodoctorov.ru/mozdok/"
+    },
+    {
+        "name": "Ак-Довурак",
+        "url": "https://prodoctorov.ru/ak-dovurak/"
+    },
+    {
+        "name": "Кызыл",
+        "url": "https://prodoctorov.ru/kyzyl/"
+    },
+    {
+        "name": "Туран",
+        "url": "https://prodoctorov.ru/turan/"
+    },
+    {
+        "name": "Чадан",
+        "url": "https://prodoctorov.ru/chadan/"
+    },
+    {
+        "name": "Шагонар",
+        "url": "https://prodoctorov.ru/shagonar/"
+    },
+    {
+        "name": "Андреаполь",
+        "url": "https://prodoctorov.ru/andreapol/"
+    },
+    {
+        "name": "Бежецк",
+        "url": "https://prodoctorov.ru/bezheck/"
+    },
+    {
+        "name": "Белый",
+        "url": "https://prodoctorov.ru/belyy/"
+    },
+    {
+        "name": "Бологое",
+        "url": "https://prodoctorov.ru/bologoe/"
+    },
+    {
+        "name": "Весьегонск",
+        "url": "https://prodoctorov.ru/vesegonsk/"
+    },
+    {
+        "name": "Вышний Волочёк",
+        "url": "https://prodoctorov.ru/vyshniy-volochyok/"
+    },
+    {
+        "name": "Западная Двина",
+        "url": "https://prodoctorov.ru/zapadnaya-dvina/"
+    },
+    {
+        "name": "Зубцов",
+        "url": "https://prodoctorov.ru/zubcov/"
+    },
+    {
+        "name": "Калязин",
+        "url": "https://prodoctorov.ru/kalyazin/"
+    },
+    {
+        "name": "Кашин",
+        "url": "https://prodoctorov.ru/kashin/"
+    },
+    {
+        "name": "Кимры",
+        "url": "https://prodoctorov.ru/kimry/"
+    },
+    {
+        "name": "Конаково",
+        "url": "https://prodoctorov.ru/konakovo/"
+    },
+    {
+        "name": "Красный Холм",
+        "url": "https://prodoctorov.ru/krasnyy-holm/"
+    },
+    {
+        "name": "Кувшиново",
+        "url": "https://prodoctorov.ru/kuvshinovo/"
+    },
+    {
+        "name": "Лихославль",
+        "url": "https://prodoctorov.ru/lihoslavl/"
+    },
+    {
+        "name": "Нелидово",
+        "url": "https://prodoctorov.ru/nelidovo/"
+    },
+    {
+        "name": "Осташков",
+        "url": "https://prodoctorov.ru/ostashkov/"
+    },
+    {
+        "name": "Ржев",
+        "url": "https://prodoctorov.ru/rzhev/"
+    },
+    {
+        "name": "Старица",
+        "url": "https://prodoctorov.ru/starica/"
+    },
+    {
+        "name": "Тверь",
+        "url": "https://prodoctorov.ru/tver/"
+    },
+    {
+        "name": "Торжок",
+        "url": "https://prodoctorov.ru/torzhok/"
+    },
+    {
+        "name": "Торопец",
+        "url": "https://prodoctorov.ru/toropec/"
+    },
+    {
+        "name": "Удомля",
+        "url": "https://prodoctorov.ru/udomlya/"
+    },
+    {
+        "name": "Белинский",
+        "url": "https://prodoctorov.ru/belinskiy/"
+    },
+    {
+        "name": "Городище",
+        "url": "https://prodoctorov.ru/gorodishe/"
+    },
+    {
+        "name": "Заречный (Пензенская область)",
+        "url": "https://prodoctorov.ru/zarechnyy-penzenskaya-oblast/"
+    },
+    {
+        "name": "Каменка",
+        "url": "https://prodoctorov.ru/kamenka/"
+    },
+    {
+        "name": "Кузнецк",
+        "url": "https://prodoctorov.ru/kuzneck/"
+    },
+    {
+        "name": "Нижний Ломов",
+        "url": "https://prodoctorov.ru/nizhniy-lomov/"
+    },
+    {
+        "name": "Никольск",
+        "url": "https://prodoctorov.ru/nikolsk/"
+    },
+    {
+        "name": "Пенза",
+        "url": "https://prodoctorov.ru/penza/"
+    },
+    {
+        "name": "Сердобск",
+        "url": "https://prodoctorov.ru/serdobsk/"
+    },
+    {
+        "name": "Спасск",
+        "url": "https://prodoctorov.ru/spassk/"
+    },
+    {
+        "name": "Сурск",
+        "url": "https://prodoctorov.ru/sursk/"
+    },
+    {
+        "name": "Великие Луки",
+        "url": "https://prodoctorov.ru/velikie-luki/"
+    },
+    {
+        "name": "Гдов",
+        "url": "https://prodoctorov.ru/gdov/"
+    },
+    {
+        "name": "Дно",
+        "url": "https://prodoctorov.ru/dno/"
+    },
+    {
+        "name": "Невель",
+        "url": "https://prodoctorov.ru/nevel/"
+    },
+    {
+        "name": "Новоржев",
+        "url": "https://prodoctorov.ru/novorzhev/"
+    },
+    {
+        "name": "Новосокольники",
+        "url": "https://prodoctorov.ru/novosokolniki/"
+    },
+    {
+        "name": "Опочка",
+        "url": "https://prodoctorov.ru/opochka/"
+    },
+    {
+        "name": "Остров",
+        "url": "https://prodoctorov.ru/ostrov/"
+    },
+    {
+        "name": "Печоры",
+        "url": "https://prodoctorov.ru/pechory/"
+    },
+    {
+        "name": "Порхов",
+        "url": "https://prodoctorov.ru/porhov/"
+    },
+    {
+        "name": "Псков",
+        "url": "https://prodoctorov.ru/pskov/"
+    },
+    {
+        "name": "Пустошка",
+        "url": "https://prodoctorov.ru/pustoshka/"
+    },
+    {
+        "name": "Пыталово",
+        "url": "https://prodoctorov.ru/pytalovo/"
+    },
+    {
+        "name": "Себеж",
+        "url": "https://prodoctorov.ru/sebezh/"
+    },
+    {
+        "name": "Бокситогорск",
+        "url": "https://prodoctorov.ru/boksitogorsk/"
+    },
+    {
+        "name": "Волосово",
+        "url": "https://prodoctorov.ru/volosovo/"
+    },
+    {
+        "name": "Волхов",
+        "url": "https://prodoctorov.ru/volhov/"
+    },
+    {
+        "name": "Всеволожск",
+        "url": "https://prodoctorov.ru/vsevolozhsk/"
+    },
+    {
+        "name": "Выборг",
+        "url": "https://prodoctorov.ru/vyborg/"
+    },
+    {
+        "name": "Высоцк",
+        "url": "https://prodoctorov.ru/vysock/"
+    },
+    {
+        "name": "Гатчина",
+        "url": "https://prodoctorov.ru/gatchina/"
+    },
+    {
+        "name": "Ивангород",
+        "url": "https://prodoctorov.ru/ivangorod/"
+    },
+    {
+        "name": "Каменногорск",
+        "url": "https://prodoctorov.ru/kamennogorsk/"
+    },
+    {
+        "name": "Кингисепп",
+        "url": "https://prodoctorov.ru/kingisepp/"
+    },
+    {
+        "name": "Кириши",
+        "url": "https://prodoctorov.ru/kirishi/"
+    },
+    {
+        "name": "Кировск(Ленинградская)",
+        "url": "https://prodoctorov.ru/kirovsk-len/"
+    },
+    {
+        "name": "Коммунар",
+        "url": "https://prodoctorov.ru/kommunar/"
+    },
+    {
+        "name": "Лодейное Поле",
+        "url": "https://prodoctorov.ru/lodyaynoe-pole/"
+    },
+    {
+        "name": "Луга",
+        "url": "https://prodoctorov.ru/luga/"
+    },
+    {
+        "name": "Любань",
+        "url": "https://prodoctorov.ru/lyuban/"
+    },
+    {
+        "name": "Никольское",
+        "url": "https://prodoctorov.ru/nikolskoe/"
+    },
+    {
+        "name": "Новая Ладога",
+        "url": "https://prodoctorov.ru/novaya-ladoga/"
+    },
+    {
+        "name": "Отрадное",
+        "url": "https://prodoctorov.ru/otradnoe/"
+    },
+    {
+        "name": "Пикалёво",
+        "url": "https://prodoctorov.ru/pikalyovo/"
+    },
+    {
+        "name": "Подпорожье",
+        "url": "https://prodoctorov.ru/podporozhe/"
+    },
+    {
+        "name": "Приморск",
+        "url": "https://prodoctorov.ru/primorsk/"
+    },
+    {
+        "name": "Приозерск",
+        "url": "https://prodoctorov.ru/priozersk/"
+    },
+    {
+        "name": "Санкт-Петербург",
+        "url": "https://prodoctorov.ru/spb/"
+    },
+    {
+        "name": "Светогорск",
+        "url": "https://prodoctorov.ru/svetogorsk/"
+    },
+    {
+        "name": "Сертолово",
+        "url": "https://prodoctorov.ru/sertolovo/"
+    },
+    {
+        "name": "Сланцы",
+        "url": "https://prodoctorov.ru/slancy/"
+    },
+    {
+        "name": "Сосновый Бор",
+        "url": "https://prodoctorov.ru/sosnovyy-bor/"
+    },
+    {
+        "name": "Сясьстрой",
+        "url": "https://prodoctorov.ru/syasstroy/"
+    },
+    {
+        "name": "Тихвин",
+        "url": "https://prodoctorov.ru/tihvin/"
+    },
+    {
+        "name": "Тосно",
+        "url": "https://prodoctorov.ru/tosno/"
+    },
+    {
+        "name": "Шлиссельбург",
+        "url": "https://prodoctorov.ru/shlisselburg/"
+    },
+    {
+        "name": "Боровичи",
+        "url": "https://prodoctorov.ru/borovichi/"
+    },
+    {
+        "name": "Валдай",
+        "url": "https://prodoctorov.ru/valday/"
+    },
+    {
+        "name": "Великий Новгород",
+        "url": "https://prodoctorov.ru/vnovgorod/"
+    },
+    {
+        "name": "Малая Вишера",
+        "url": "https://prodoctorov.ru/malaya-vishera/"
+    },
+    {
+        "name": "Окуловка",
+        "url": "https://prodoctorov.ru/okulovka/"
+    },
+    {
+        "name": "Пестово",
+        "url": "https://prodoctorov.ru/pestovo/"
+    },
+    {
+        "name": "Сольцы",
+        "url": "https://prodoctorov.ru/solcy/"
+    },
+    {
+        "name": "Старая Русса",
+        "url": "https://prodoctorov.ru/staraya-russa/"
+    },
+    {
+        "name": "Холм",
+        "url": "https://prodoctorov.ru/holm/"
+    },
+    {
+        "name": "Чудово",
+        "url": "https://prodoctorov.ru/chudovo/"
+    },
+    {
+        "name": "Барабинск",
+        "url": "https://prodoctorov.ru/barabinsk/"
+    },
+    {
+        "name": "Бердск",
+        "url": "https://prodoctorov.ru/berdsk/"
+    },
+    {
+        "name": "Болотное",
+        "url": "https://prodoctorov.ru/bolotnoe/"
+    },
+    {
+        "name": "Искитим",
+        "url": "https://prodoctorov.ru/iskitim/"
+    },
+    {
+        "name": "Карасук",
+        "url": "https://prodoctorov.ru/karasuk/"
+    },
+    {
+        "name": "Каргат",
+        "url": "https://prodoctorov.ru/kargat/"
+    },
+    {
+        "name": "Куйбышев",
+        "url": "https://prodoctorov.ru/kuybyshev/"
+    },
+    {
+        "name": "Купино",
+        "url": "https://prodoctorov.ru/kupino/"
+    },
+    {
+        "name": "Новосибирск",
+        "url": "https://prodoctorov.ru/novosibirsk/"
+    },
+    {
+        "name": "Обь",
+        "url": "https://prodoctorov.ru/ob/"
+    },
+    {
+        "name": "Татарск",
+        "url": "https://prodoctorov.ru/tatarsk/"
+    },
+    {
+        "name": "Тогучин",
+        "url": "https://prodoctorov.ru/toguchin/"
+    },
+    {
+        "name": "Черепаново",
+        "url": "https://prodoctorov.ru/cherepanovo/"
+    },
+    {
+        "name": "Чулым",
+        "url": "https://prodoctorov.ru/chulym/"
+    },
+    {
+        "name": "Абаза",
+        "url": "https://prodoctorov.ru/abaza/"
+    },
+    {
+        "name": "Абакан",
+        "url": "https://prodoctorov.ru/abakan/"
+    },
+    {
+        "name": "Саяногорск",
+        "url": "https://prodoctorov.ru/sayanogorsk/"
+    },
+    {
+        "name": "Сорск",
+        "url": "https://prodoctorov.ru/sorsk/"
+    },
+    {
+        "name": "Черногорск",
+        "url": "https://prodoctorov.ru/chernogorsk/"
+    },
+    {
+        "name": "Арсеньев",
+        "url": "https://prodoctorov.ru/arsenev/"
+    },
+    {
+        "name": "Артём",
+        "url": "https://prodoctorov.ru/artyom/"
+    },
+    {
+        "name": "Большой Камень",
+        "url": "https://prodoctorov.ru/bolshoy-kamen/"
+    },
+    {
+        "name": "Владивосток",
+        "url": "https://prodoctorov.ru/vladivostok/"
+    },
+    {
+        "name": "Дальнегорск",
+        "url": "https://prodoctorov.ru/dalnegorsk/"
+    },
+    {
+        "name": "Дальнереченск",
+        "url": "https://prodoctorov.ru/dalnerechensk/"
+    },
+    {
+        "name": "Лесозаводск",
+        "url": "https://prodoctorov.ru/lesozavodsk/"
+    },
+    {
+        "name": "Находка",
+        "url": "https://prodoctorov.ru/nahodka/"
+    },
+    {
+        "name": "Партизанск",
+        "url": "https://prodoctorov.ru/partizansk/"
+    },
+    {
+        "name": "Спасск-Дальний",
+        "url": "https://prodoctorov.ru/spassk-dalniy/"
+    },
+    {
+        "name": "Уссурийск",
+        "url": "https://prodoctorov.ru/ussuriysk/"
+    },
+    {
+        "name": "Фокино",
+        "url": "https://prodoctorov.ru/fokino/"
+    },
+    {
+        "name": "Волжск",
+        "url": "https://prodoctorov.ru/volzhsk/"
+    },
+    {
+        "name": "Звенигово",
+        "url": "https://prodoctorov.ru/zvenigovo/"
+    },
+    {
+        "name": "Йошкар-Ола",
+        "url": "https://prodoctorov.ru/yoshkar-ola/"
+    },
+    {
+        "name": "Козьмодемьянск",
+        "url": "https://prodoctorov.ru/kozmodemyansk/"
+    },
+    {
+        "name": "Абдулино",
+        "url": "https://prodoctorov.ru/abdulino/"
+    },
+    {
+        "name": "Бугуруслан",
+        "url": "https://prodoctorov.ru/buguruslan/"
+    },
+    {
+        "name": "Бузулук",
+        "url": "https://prodoctorov.ru/buzuluk/"
+    },
+    {
+        "name": "Гай",
+        "url": "https://prodoctorov.ru/gay/"
+    },
+    {
+        "name": "Кувандык",
+        "url": "https://prodoctorov.ru/kuvandyk/"
+    },
+    {
+        "name": "Медногорск",
+        "url": "https://prodoctorov.ru/mednogorsk/"
+    },
+    {
+        "name": "Новотроицк",
+        "url": "https://prodoctorov.ru/novotroick/"
+    },
+    {
+        "name": "Оренбург",
+        "url": "https://prodoctorov.ru/orenburg/"
+    },
+    {
+        "name": "Орск",
+        "url": "https://prodoctorov.ru/orsk/"
+    },
+    {
+        "name": "Соль-Илецк",
+        "url": "https://prodoctorov.ru/sol-ileck/"
+    },
+    {
+        "name": "Сорочинск",
+        "url": "https://prodoctorov.ru/sorochinsk/"
+    },
+    {
+        "name": "Ясный",
+        "url": "https://prodoctorov.ru/yasnyy/"
+    },
+    {
+        "name": "Балабаново",
+        "url": "https://prodoctorov.ru/balabanovo/"
+    },
+    {
+        "name": "Белоусово",
+        "url": "https://prodoctorov.ru/belousovo/"
+    },
+    {
+        "name": "Боровск",
+        "url": "https://prodoctorov.ru/borovsk/"
+    },
+    {
+        "name": "Воротынск",
+        "url": "https://prodoctorov.ru/vorotynsk/"
+    },
+    {
+        "name": "Ермолино",
+        "url": "https://prodoctorov.ru/ermolino/"
+    },
+    {
+        "name": "Жиздра",
+        "url": "https://prodoctorov.ru/zhizdra/"
+    },
+    {
+        "name": "Жуков",
+        "url": "https://prodoctorov.ru/zhukov/"
+    },
+    {
+        "name": "Калуга",
+        "url": "https://prodoctorov.ru/kaluga/"
+    },
+    {
+        "name": "Козельск",
+        "url": "https://prodoctorov.ru/kozelsk/"
+    },
+    {
+        "name": "Кондрово",
+        "url": "https://prodoctorov.ru/kondrovo/"
+    },
+    {
+        "name": "Кремёнки",
+        "url": "https://prodoctorov.ru/kremenki/"
+    },
+    {
+        "name": "Людиново",
+        "url": "https://prodoctorov.ru/lyudinovo/"
+    },
+    {
+        "name": "Малоярославец",
+        "url": "https://prodoctorov.ru/maloyaroslavec/"
+    },
+    {
+        "name": "Медынь",
+        "url": "https://prodoctorov.ru/medyn/"
+    },
+    {
+        "name": "Мещовск",
+        "url": "https://prodoctorov.ru/meshovsk/"
+    },
+    {
+        "name": "Мосальск",
+        "url": "https://prodoctorov.ru/mosalsk/"
+    },
+    {
+        "name": "Обнинск",
+        "url": "https://prodoctorov.ru/obninsk/"
+    },
+    {
+        "name": "Сосенский",
+        "url": "https://prodoctorov.ru/sosenskiy/"
+    },
+    {
+        "name": "Спас-Деменск",
+        "url": "https://prodoctorov.ru/spas-demensk/"
+    },
+    {
+        "name": "Сухиничи",
+        "url": "https://prodoctorov.ru/suhinichi/"
+    },
+    {
+        "name": "Таруса",
+        "url": "https://prodoctorov.ru/tarusa/"
+    },
+    {
+        "name": "Юхнов",
+        "url": "https://prodoctorov.ru/yuhnov/"
+    },
+    {
+        "name": "Алексин",
+        "url": "https://prodoctorov.ru/aleksin/"
+    },
+    {
+        "name": "Белёв",
+        "url": "https://prodoctorov.ru/belyov/"
+    },
+    {
+        "name": "Богородицк",
+        "url": "https://prodoctorov.ru/bogorodick/"
+    },
+    {
+        "name": "Болохово",
+        "url": "https://prodoctorov.ru/bolohovo/"
+    },
+    {
+        "name": "Венёв",
+        "url": "https://prodoctorov.ru/venyov/"
+    },
+    {
+        "name": "Донской",
+        "url": "https://prodoctorov.ru/donskoy/"
+    },
+    {
+        "name": "Ефремов",
+        "url": "https://prodoctorov.ru/efremov/"
+    },
+    {
+        "name": "Кимовск",
+        "url": "https://prodoctorov.ru/kimovsk/"
+    },
+    {
+        "name": "Киреевск",
+        "url": "https://prodoctorov.ru/kireevsk/"
+    },
+    {
+        "name": "Липки",
+        "url": "https://prodoctorov.ru/lipki/"
+    },
+    {
+        "name": "Новомосковск",
+        "url": "https://prodoctorov.ru/novomoskovsk/"
+    },
+    {
+        "name": "Плавск",
+        "url": "https://prodoctorov.ru/plavsk/"
+    },
+    {
+        "name": "Суворов",
+        "url": "https://prodoctorov.ru/suvorov/"
+    },
+    {
+        "name": "Тула",
+        "url": "https://prodoctorov.ru/tula/"
+    },
+    {
+        "name": "Узловая",
+        "url": "https://prodoctorov.ru/uzlovaya/"
+    },
+    {
+        "name": "Чекалин",
+        "url": "https://prodoctorov.ru/chekalin/"
+    },
+    {
+        "name": "Щёкино",
+        "url": "https://prodoctorov.ru/shyokino/"
+    },
+    {
+        "name": "Ясногорск",
+        "url": "https://prodoctorov.ru/yasnogorsk/"
+    },
+    {
+        "name": "Буй",
+        "url": "https://prodoctorov.ru/buy/"
+    },
+    {
+        "name": "Волгореченск",
+        "url": "https://prodoctorov.ru/volgorechensk/"
+    },
+    {
+        "name": "Галич",
+        "url": "https://prodoctorov.ru/galich/"
+    },
+    {
+        "name": "Кологрив",
+        "url": "https://prodoctorov.ru/kologriv/"
+    },
+    {
+        "name": "Кострома",
+        "url": "https://prodoctorov.ru/kostroma/"
+    },
+    {
+        "name": "Макарьев",
+        "url": "https://prodoctorov.ru/makarev/"
+    },
+    {
+        "name": "Мантурово",
+        "url": "https://prodoctorov.ru/manturovo/"
+    },
+    {
+        "name": "Нерехта",
+        "url": "https://prodoctorov.ru/nerehta/"
+    },
+    {
+        "name": "Нея",
+        "url": "https://prodoctorov.ru/neya/"
+    },
+    {
+        "name": "Солигалич",
+        "url": "https://prodoctorov.ru/soligalich/"
+    },
+    {
+        "name": "Чухлома",
+        "url": "https://prodoctorov.ru/chuhloma/"
+    },
+    {
+        "name": "Шарья",
+        "url": "https://prodoctorov.ru/sharya/"
+    },
+    {
+        "name": "Алзамай",
+        "url": "https://prodoctorov.ru/alzamay/"
+    },
+    {
+        "name": "Ангарск",
+        "url": "https://prodoctorov.ru/angarsk/"
+    },
+    {
+        "name": "Байкальск",
+        "url": "https://prodoctorov.ru/baykalsk/"
+    },
+    {
+        "name": "Бирюсинск",
+        "url": "https://prodoctorov.ru/biryusinsk/"
+    },
+    {
+        "name": "Бодайбо",
+        "url": "https://prodoctorov.ru/bodaybo/"
+    },
+    {
+        "name": "Братск",
+        "url": "https://prodoctorov.ru/bratsk/"
+    },
+    {
+        "name": "Вихоревка",
+        "url": "https://prodoctorov.ru/vihorevka/"
+    },
+    {
+        "name": "Железногорск-Илимский",
+        "url": "https://prodoctorov.ru/zheleznogorsk-ilimskiy/"
+    },
+    {
+        "name": "Зима",
+        "url": "https://prodoctorov.ru/zima/"
+    },
+    {
+        "name": "Иркутск",
+        "url": "https://prodoctorov.ru/irkutsk/"
+    },
+    {
+        "name": "Киренск",
+        "url": "https://prodoctorov.ru/kirensk/"
+    },
+    {
+        "name": "Нижнеудинск",
+        "url": "https://prodoctorov.ru/nizhneudinsk/"
+    },
+    {
+        "name": "Саянск",
+        "url": "https://prodoctorov.ru/sayansk/"
+    },
+    {
+        "name": "Свирск",
+        "url": "https://prodoctorov.ru/svirsk/"
+    },
+    {
+        "name": "Слюдянка",
+        "url": "https://prodoctorov.ru/slyudyanka/"
+    },
+    {
+        "name": "Тайшет",
+        "url": "https://prodoctorov.ru/tayshet/"
+    },
+    {
+        "name": "Тулун",
+        "url": "https://prodoctorov.ru/tulun/"
+    },
+    {
+        "name": "Усолье-Сибирское",
+        "url": "https://prodoctorov.ru/usole-sibirskoe/"
+    },
+    {
+        "name": "Усть-Илимск",
+        "url": "https://prodoctorov.ru/ust-ilimsk/"
+    },
+    {
+        "name": "Усть-Кут",
+        "url": "https://prodoctorov.ru/ust-kut/"
+    },
+    {
+        "name": "Черемхово",
+        "url": "https://prodoctorov.ru/cheremhovo/"
+    },
+    {
+        "name": "Шелехов",
+        "url": "https://prodoctorov.ru/shelehov/"
+    },
+    {
+        "name": "Амурск",
+        "url": "https://prodoctorov.ru/amursk/"
+    },
+    {
+        "name": "Бикин",
+        "url": "https://prodoctorov.ru/bikin/"
+    },
+    {
+        "name": "Вяземский",
+        "url": "https://prodoctorov.ru/vyazemskiy/"
+    },
+    {
+        "name": "Комсомольск-на-Амуре",
+        "url": "https://prodoctorov.ru/komsomolsk-na-amure/"
+    },
+    {
+        "name": "Николаевск-на-Амуре",
+        "url": "https://prodoctorov.ru/nikolaevsk-na-amure/"
+    },
+    {
+        "name": "Советская Гавань",
+        "url": "https://prodoctorov.ru/sovetskaya-gavan/"
+    },
+    {
+        "name": "Хабаровск",
+        "url": "https://prodoctorov.ru/habarovsk/"
+    }
+]
