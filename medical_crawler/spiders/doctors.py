@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import scrapy
 from scrapy.linkextractors import LinkExtractor
-from medical_crawler.items import Doctor
+from medical_crawler.items import ResourceLink
 import json
 
 
@@ -18,7 +18,7 @@ class DoctorsSpider(scrapy.Spider):
 
     def parse_doctor_links(self, response):
         for doctor_link in LinkExtractor(restrict_css=".fio").extract_links(response):
-            yield Doctor(name=doctor_link.text, url=doctor_link.url)
+            yield ResourceLink(name=doctor_link.text, url=doctor_link.url)
 
         pagers = response.css('span.page a::attr("href")').extract()
 

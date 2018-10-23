@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import scrapy
 from scrapy.linkextractors import LinkExtractor
-from medical_crawler.items import City
+from medical_crawler.items import ResourceLink
 
 
 class CitiesSpider(scrapy.Spider):
@@ -14,4 +14,4 @@ class CitiesSpider(scrapy.Spider):
 
     def parse_cities(self, region_response):
         for city_path in LinkExtractor(restrict_css="table.rgns").extract_links(region_response):
-            yield City(name=city_path.text, url=city_path.url)
+            yield ResourceLink(name=city_path.text, url=city_path.url)

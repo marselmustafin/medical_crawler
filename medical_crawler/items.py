@@ -8,11 +8,20 @@
 import scrapy
 
 
-class City(scrapy.Item):
+class ResourceLink(scrapy.Item):
     name = scrapy.Field()
     url = scrapy.Field()
 
-
-class Doctor(scrapy.Item):
-    name = scrapy.Field()
-    url = scrapy.Field()
+# class Comment(scrapy.Item):
+#     comment_id = scrapy.Field()
+#     author_operator = scrapy.Field()
+#     author_hidden_phone_number = scrapy.Field()
+#     rate = scrapy.Field()
+#     title = scrapy.Field()
+#     datetime = scrapy.Field()
+#     pos_comment = scrapy.Field()
+#     neg_comment = scrapy.Field()
+#     content = scrapy.Field()
+#     reply_datetime = scrapy.Field()
+#     reply_content = scrapy.Field()
+#     comment_doctor = scrapy.Field()

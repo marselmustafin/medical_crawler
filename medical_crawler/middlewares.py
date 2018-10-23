@@ -115,7 +115,6 @@ class Mode:
         3)
 
 
-# little bit modified middleware because of connection issue
 class RandomProxy(object):
     def __init__(self, settings):
         self.mode = settings.get('PROXY_MODE')
