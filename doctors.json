@@ -1,0 +1,2784 @@
+[
+    {
+        "url": "/verhnechusovskie/vrach/422607-gitelman/",
+        "id": "422607",
+        "name": "Гительман Елена Владимировна",
+        "specialities": [
+            "врач общей практики"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422647-zhdanova/",
+        "id": "422647",
+        "name": "Жданова Оксана Васильевна",
+        "specialities": [
+            "невролог"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422614-mataras/",
+        "id": "422614",
+        "name": "Матарас Татьяна Юрьевна",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422656-antushkieva/",
+        "id": "422656",
+        "name": "Антушкиева Э. Э.",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422650-arzamasceva/",
+        "id": "422650",
+        "name": "Арзамасцева О. Н.",
+        "specialities": [
+            "терапевт"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422634-bakanov/",
+        "id": "422634",
+        "name": "Баканов М. А.",
+        "specialities": [
+            "инфекционист"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422624-batueva/",
+        "id": "422624",
+        "name": "Батуева Е. В.",
+        "specialities": [
+            "неонатолог"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/dobryanka/vrach/422812-boyarina/",
+        "id": "422812",
+        "name": "Боярина Л. Л.",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46039",
+        "institution_name": "Детская поликлиника",
+        "institution_city": "Добрянка"
+    },
+    {
+        "url": "/dobryanka/vrach/422811-cherepanova/",
+        "id": "422811",
+        "name": "Черепанова Н. В.",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46039",
+        "institution_name": "Детская поликлиника",
+        "institution_city": "Добрянка"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422291-abrosimov/",
+        "id": "422291",
+        "name": "Абросимов В. Н.",
+        "specialities": [
+            "врач общей практики"
+        ],
+        "institution_id": "46003",
+        "institution_name": "Городская больница",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422292-adikaev/",
+        "id": "422292",
+        "name": "Адикаев Р. Р.",
+        "specialities": [
+            "стоматолог"
+        ],
+        "institution_id": "46003",
+        "institution_name": "Городская больница",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422293-aitov/",
+        "id": "422293",
+        "name": "Аитов Р. И.",
+        "specialities": [
+            "хирург"
+        ],
+        "institution_id": "46003",
+        "institution_name": "Городская больница",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422294-aitova/",
+        "id": "422294",
+        "name": "Аитова В. Х.",
+        "specialities": [
+            "терапевт"
+        ],
+        "institution_id": "46003",
+        "institution_name": "Городская больница",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422289-frolov/",
+        "id": "422289",
+        "name": "Фролов Фёдор Сергеевич",
+        "specialities": [
+            "ортопед",
+            "травматолог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/kudymkar/vrach/551442-kivilyov/",
+        "id": "551442",
+        "name": "Кивилёв Михаил Сергеевич",
+        "specialities": [
+            "онколог"
+        ],
+        "institution_id": "19758",
+        "institution_name": "Больница",
+        "institution_city": "Кудымкар"
+    },
+    {
+        "url": "/kudymkar/vrach/168547-radosteva/",
+        "id": "168547",
+        "name": "Радостева Е. А.",
+        "specialities": [
+            "детский невролог"
+        ],
+        "institution_id": "19758",
+        "institution_name": "Больница",
+        "institution_city": "Кудымкар"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422649-beklaev/",
+        "id": "422649",
+        "name": "Беклаев А. Л.",
+        "specialities": [
+            "кардиолог"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422642-bondar/",
+        "id": "422642",
+        "name": "Бондарь Н. М.",
+        "specialities": [
+            "анестезиолог-реаниматолог"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422636-buravlev/",
+        "id": "422636",
+        "name": "Буравлев В. А.",
+        "specialities": [
+            "анестезиолог-реаниматолог"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422619-busygina/",
+        "id": "422619",
+        "name": "Бусыгина А. А.",
+        "specialities": [
+            "терапевт"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422653-bystrickiy/",
+        "id": "422653",
+        "name": "Быстрицкий В. А.",
+        "specialities": [
+            "терапевт"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422637-volohovich/",
+        "id": "422637",
+        "name": "Волохович С. Б.",
+        "specialities": [
+            "анестезиолог-реаниматолог"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422660-vostrecova/",
+        "id": "422660",
+        "name": "Вострецова Н. С.",
+        "specialities": [
+            "рентгенолог"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422615-gazimova/",
+        "id": "422615",
+        "name": "Газимова С. Ю.",
+        "specialities": [
+            "стоматолог"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422631-gaponenko/",
+        "id": "422631",
+        "name": "Гапоненко Л. А.",
+        "specialities": [
+            "хирург"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422617-dolmatov/",
+        "id": "422617",
+        "name": "Долматов О. Б.",
+        "specialities": [
+            "стоматолог"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422645-zamyatina/",
+        "id": "422645",
+        "name": "Замятина Н. И.",
+        "specialities": [
+            "невролог"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422616-zueva/",
+        "id": "422616",
+        "name": "Зуева И. В.",
+        "specialities": [
+            "массажист"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422629-karelin/",
+        "id": "422629",
+        "name": "Карелин А. А.",
+        "specialities": [
+            "ортопед",
+            "травматолог"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422622-kolotygina/",
+        "id": "422622",
+        "name": "Колотыгина А. А.",
+        "specialities": [
+            "акушер",
+            "гинеколог"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422295-aitova/",
+        "id": "422295",
+        "name": "Аитова Р. С.",
+        "specialities": [
+            "врач общей практики"
+        ],
+        "institution_id": "46003",
+        "institution_name": "Городская больница",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422296-akmukova/",
+        "id": "422296",
+        "name": "Акмукова Н. А.",
+        "specialities": [
+            "венеролог",
+            "дерматолог"
+        ],
+        "institution_id": "46003",
+        "institution_name": "Городская больница",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422297-akchurina/",
+        "id": "422297",
+        "name": "Акчурина Л. К.",
+        "specialities": [
+            "акушер",
+            "гинеколог"
+        ],
+        "institution_id": "46003",
+        "institution_name": "Городская больница",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422298-alibekov/",
+        "id": "422298",
+        "name": "Алибеков А. А.",
+        "specialities": [
+            "уролог"
+        ],
+        "institution_id": "46003",
+        "institution_name": "Городская больница",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422299-alyutina/",
+        "id": "422299",
+        "name": "Алютина М. Г.",
+        "specialities": [
+            "врач общей практики"
+        ],
+        "institution_id": "46003",
+        "institution_name": "Городская больница",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422300-amambaeva/",
+        "id": "422300",
+        "name": "Амамбаева М. Т.",
+        "specialities": [
+            "врач общей практики"
+        ],
+        "institution_id": "46003",
+        "institution_name": "Городская больница",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422301-andreeva/",
+        "id": "422301",
+        "name": "Андреева С. И.",
+        "specialities": [
+            "фтизиатр"
+        ],
+        "institution_id": "46003",
+        "institution_name": "Городская больница",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422302-anisimov/",
+        "id": "422302",
+        "name": "Анисимов О. А.",
+        "specialities": [
+            "венеролог",
+            "дерматолог"
+        ],
+        "institution_id": "46003",
+        "institution_name": "Городская больница",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422303-anisimova/",
+        "id": "422303",
+        "name": "Анисимова Т. Ю.",
+        "specialities": [
+            "венеролог",
+            "дерматолог"
+        ],
+        "institution_id": "46003",
+        "institution_name": "Городская больница",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422304-arbuzova/",
+        "id": "422304",
+        "name": "Арбузова М. А.",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46003",
+        "institution_name": "Городская больница",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422305-artemeva/",
+        "id": "422305",
+        "name": "Артемьева Н. А.",
+        "specialities": [
+            "терапевт"
+        ],
+        "institution_id": "46003",
+        "institution_name": "Городская больница",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422306-arhangelskaya/",
+        "id": "422306",
+        "name": "Архангельская И. В.",
+        "specialities": [
+            "эндокринолог"
+        ],
+        "institution_id": "46003",
+        "institution_name": "Городская больница",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422307-arhipov/",
+        "id": "422307",
+        "name": "Архипов П. В.",
+        "specialities": [
+            "рентгенолог"
+        ],
+        "institution_id": "46003",
+        "institution_name": "Городская больница",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422308-badaeva/",
+        "id": "422308",
+        "name": "Бадаева К. Х.",
+        "specialities": [
+            "нарколог",
+            "психиатр"
+        ],
+        "institution_id": "46003",
+        "institution_name": "Городская больница",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422309-bazanova/",
+        "id": "422309",
+        "name": "Базанова Т. С.",
+        "specialities": [
+            "рентгенолог"
+        ],
+        "institution_id": "46003",
+        "institution_name": "Городская больница",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422282-zolotova/",
+        "id": "422282",
+        "name": "Золотова Светлана Сергеевна",
+        "specialities": [
+            "профпатолог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422251-kadochnikova/",
+        "id": "422251",
+        "name": "Кадочникова Ирина Михайловна",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422254-plotnikova/",
+        "id": "422254",
+        "name": "Плотникова Татьяна Олеговна",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422246-pshenicyn/",
+        "id": "422246",
+        "name": "Пшеницын Владимир Васильевич",
+        "specialities": [
+            "кардиолог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422255-razumova/",
+        "id": "422255",
+        "name": "Разумова Марина Васильевна",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422290-roslyakov/",
+        "id": "422290",
+        "name": "Росляков Евгений Александрович",
+        "specialities": [
+            "хирург"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422287-roslyakova/",
+        "id": "422287",
+        "name": "Рослякова Татьяна Анатольевна",
+        "specialities": [
+            "терапевт"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422261-chebotnova/",
+        "id": "422261",
+        "name": "Чеботнова Ольга Александровна",
+        "specialities": [
+            "стоматолог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422281-yakimova/",
+        "id": "422281",
+        "name": "Якимова Наталья Викторовна",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422284-kolchanov/",
+        "id": "422284",
+        "name": "Колчанов Алексей Петрович",
+        "specialities": [
+            "терапевт"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422250-motyreva/",
+        "id": "422250",
+        "name": "Мотырева Наталья Борисовна",
+        "specialities": [
+            "офтальмолог (окулист)"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422256-starodubceva/",
+        "id": "422256",
+        "name": "Стародубцева Лариса Самуиловна",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422613-konkov/",
+        "id": "422613",
+        "name": "Коньков В. А.",
+        "specialities": [
+            "акушер",
+            "врач узи",
+            "гинеколог"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422655-konkova/",
+        "id": "422655",
+        "name": "Конькова Л. В.",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422626-koshelev/",
+        "id": "422626",
+        "name": "Кошелев С. А.",
+        "specialities": [
+            "ортопед",
+            "травматолог"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422618-medvedev/",
+        "id": "422618",
+        "name": "Медведев Л. Н.",
+        "specialities": [
+            "невролог"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422630-myshkin/",
+        "id": "422630",
+        "name": "Мышкин Ю. И.",
+        "specialities": [
+            "хирург"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/kudymkar/vrach/229565-gulyaeva/",
+        "id": "229565",
+        "name": "Гуляева Татьяна Петровна",
+        "specialities": [
+            "офтальмолог (окулист)"
+        ],
+        "institution_id": "39821",
+        "institution_name": "Офтальмологическая клиника «Три-З»",
+        "institution_city": "Кудымкар"
+    },
+    {
+        "url": "/kudymkar/vrach/229566-guselnikova/",
+        "id": "229566",
+        "name": "Гусельникова Вера Ильинична",
+        "specialities": [
+            "офтальмолог (окулист)"
+        ],
+        "institution_id": "39821",
+        "institution_name": "Офтальмологическая клиника «Три-З»",
+        "institution_city": "Кудымкар"
+    },
+    {
+        "url": "/lysva/vrach/447372-mehanoshina/",
+        "id": "447372",
+        "name": "Механошина Валентина Васильевна",
+        "specialities": [
+            "эндокринолог"
+        ],
+        "institution_id": "46087",
+        "institution_name": "Детская поликлиника",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447278-proskurina/",
+        "id": "447278",
+        "name": "Проскурина Майовка Григорьевна",
+        "specialities": [
+            "акушер",
+            "гинеколог"
+        ],
+        "institution_id": "37328",
+        "institution_name": "Женская консультация",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447276-lyazgina/",
+        "id": "447276",
+        "name": "Лязгина Яна Григорьевна",
+        "specialities": [
+            "акушер",
+            "гинеколог"
+        ],
+        "institution_id": "37328",
+        "institution_name": "Женская консультация",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447271-kozlovskaya/",
+        "id": "447271",
+        "name": "Козловская Елена Юрьевна",
+        "specialities": [
+            "акушер",
+            "гинеколог"
+        ],
+        "institution_id": "37328",
+        "institution_name": "Женская консультация",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447269-garaeva/",
+        "id": "447269",
+        "name": "Гараева Валентина Николаевна",
+        "specialities": [
+            "акушер",
+            "гинеколог"
+        ],
+        "institution_id": "37328",
+        "institution_name": "Женская консультация",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447263-basharova/",
+        "id": "447263",
+        "name": "Башарова Вера Васильевна",
+        "specialities": [
+            "акушер",
+            "гинеколог"
+        ],
+        "institution_id": "37328",
+        "institution_name": "Женская консультация",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447379-lyangasova/",
+        "id": "447379",
+        "name": "Лянгасова Татьяна Викторовна",
+        "specialities": [
+            "акушер",
+            "гинеколог"
+        ],
+        "institution_id": "37328",
+        "institution_name": "Женская консультация",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/dobryanka/vrach/422808-tamkovich/",
+        "id": "422808",
+        "name": "Тамкович Ольга Николаевна",
+        "specialities": [
+            "терапевт"
+        ],
+        "institution_id": "46040",
+        "institution_name": "Поликлиника",
+        "institution_city": "Добрянка"
+    },
+    {
+        "url": "/dobryanka/vrach/422813-tryascyn/",
+        "id": "422813",
+        "name": "Трясцын С. А.",
+        "specialities": [
+            "нарколог",
+            "психиатр"
+        ],
+        "institution_id": "46040",
+        "institution_name": "Поликлиника",
+        "institution_city": "Добрянка"
+    },
+    {
+        "url": "/dobryanka/vrach/422814-sheshin/",
+        "id": "422814",
+        "name": "Шешин В. Л.",
+        "specialities": [
+            "хирург"
+        ],
+        "institution_id": "46040",
+        "institution_name": "Поликлиника",
+        "institution_city": "Добрянка"
+    },
+    {
+        "url": "/kungur/vrach/382963-lopatina/",
+        "id": "382963",
+        "name": "Лопатина Т. В.",
+        "specialities": [
+            "врач узи"
+        ],
+        "institution_id": "44763",
+        "institution_name": "Медицинский центр «Лабдиагностика»",
+        "institution_city": "Кунгур"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422310-balandina/",
+        "id": "422310",
+        "name": "Баландина С. В.",
+        "specialities": [
+            "кардиолог"
+        ],
+        "institution_id": "46003",
+        "institution_name": "Городская больница",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422311-baranova/",
+        "id": "422311",
+        "name": "Баранова Е. П.",
+        "specialities": [
+            "невролог"
+        ],
+        "institution_id": "46003",
+        "institution_name": "Городская больница",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422312-barinova/",
+        "id": "422312",
+        "name": "Баринова Н. В.",
+        "specialities": [
+            "онколог"
+        ],
+        "institution_id": "46003",
+        "institution_name": "Городская больница",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422313-belova/",
+        "id": "422313",
+        "name": "Белова Э. Ф.",
+        "specialities": [
+            "эндокринолог"
+        ],
+        "institution_id": "46003",
+        "institution_name": "Городская больница",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422288-zagorak/",
+        "id": "422288",
+        "name": "Загорак Дмитрий Петрович",
+        "specialities": [
+            "ортопед",
+            "травматолог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422269-kozhoev/",
+        "id": "422269",
+        "name": "Кожоев Зикирали Арабидинович",
+        "specialities": [
+            "хирург"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422272-pashnina/",
+        "id": "422272",
+        "name": "Пашнина Анастасия Сергеевна",
+        "specialities": [
+            "кардиолог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422249-zavyalova/",
+        "id": "422249",
+        "name": "Завьялова Екатерина Александровна",
+        "specialities": [
+            "невролог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422257-babinova/",
+        "id": "422257",
+        "name": "Бабинова Л. Р.",
+        "specialities": [
+            "стоматолог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422260-baksanova/",
+        "id": "422260",
+        "name": "Баксанова Н. В.",
+        "specialities": [
+            "стоматолог",
+            "стоматолог-хирург"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422275-belkina/",
+        "id": "422275",
+        "name": "Белкина Л. Н.",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422263-belozerova/",
+        "id": "422263",
+        "name": "Белозерова О. А.",
+        "specialities": [
+            "терапевт",
+            "эндокринолог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422314-berezin/",
+        "id": "422314",
+        "name": "Березин Е. С.",
+        "specialities": [
+            "терапевт"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422316-bibarsov/",
+        "id": "422316",
+        "name": "Бибарсов И. М.",
+        "specialities": [
+            "стоматолог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422317-bibarsova/",
+        "id": "422317",
+        "name": "Бибарсова А. М.",
+        "specialities": [
+            "стоматолог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422318-bidenko/",
+        "id": "422318",
+        "name": "Биденко В. К.",
+        "specialities": [
+            "нарколог",
+            "психиатр"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422319-bichurina/",
+        "id": "422319",
+        "name": "Бичурина К. Х.",
+        "specialities": [
+            "невролог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422621-myshkina/",
+        "id": "422621",
+        "name": "Мышкина В. С.",
+        "specialities": [
+            "акушер",
+            "гинеколог"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422628-noraliev/",
+        "id": "422628",
+        "name": "Норалиев И. М.",
+        "specialities": [
+            "ортопед",
+            "травматолог"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422658-oborina/",
+        "id": "422658",
+        "name": "Оборина Е. А.",
+        "specialities": [
+            "врач узи"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422638-ogorelcev/",
+        "id": "422638",
+        "name": "Огорельцев С. Н.",
+        "specialities": [
+            "анестезиолог-реаниматолог"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422633-pervakov/",
+        "id": "422633",
+        "name": "Перваков Н. Е.",
+        "specialities": [
+            "хирург"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422627-radostev/",
+        "id": "422627",
+        "name": "Радостев Е. А.",
+        "specialities": [
+            "ортопед",
+            "травматолог"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422612-sannikova/",
+        "id": "422612",
+        "name": "Санникова А. Л.",
+        "specialities": [
+            "терапевт"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422659-talanceva/",
+        "id": "422659",
+        "name": "Таланцева Т. А.",
+        "specialities": [
+            "функциональный диагност"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422623-tarasova/",
+        "id": "422623",
+        "name": "Тарасова О. А.",
+        "specialities": [
+            "акушер",
+            "гинеколог"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422652-terenteva/",
+        "id": "422652",
+        "name": "Терентьева И. С.",
+        "specialities": [
+            "терапевт"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422635-torhov/",
+        "id": "422635",
+        "name": "Торхов Д. Я.",
+        "specialities": [
+            "анестезиолог-реаниматолог"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422632-tretyakov/",
+        "id": "422632",
+        "name": "Третьяков С. Л.",
+        "specialities": [
+            "хирург"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422620-troshkov/",
+        "id": "422620",
+        "name": "Трошков О. Б.",
+        "specialities": [
+            "акушер",
+            "гинеколог"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422639-tyarkin/",
+        "id": "422639",
+        "name": "Тяркин А. Г.",
+        "specialities": [
+            "анестезиолог-реаниматолог"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/lysva/vrach/447362-dulskiy/",
+        "id": "447362",
+        "name": "Дульский Дмитрий Михайлович",
+        "specialities": [
+            "детский хирург"
+        ],
+        "institution_id": "46087",
+        "institution_name": "Детская поликлиника",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447343-amerhanova/",
+        "id": "447343",
+        "name": "Амерханова О. Ю.",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46087",
+        "institution_name": "Детская поликлиника",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447369-vasileva/",
+        "id": "447369",
+        "name": "Васильева О. И.",
+        "specialities": [
+            "невролог"
+        ],
+        "institution_id": "46087",
+        "institution_name": "Детская поликлиника",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447375-vahrusheva/",
+        "id": "447375",
+        "name": "Вахрушева О. Н.",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46087",
+        "institution_name": "Детская поликлиника",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447345-glavatskih/",
+        "id": "447345",
+        "name": "Главатских Т. Л.",
+        "specialities": [
+            "инфекционист",
+            "педиатр"
+        ],
+        "institution_id": "46087",
+        "institution_name": "Детская поликлиника",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447338-dulskaya/",
+        "id": "447338",
+        "name": "Дульская О. Н.",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46087",
+        "institution_name": "Детская поликлиника",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447347-zayakina/",
+        "id": "447347",
+        "name": "Заякина О. М.",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46087",
+        "institution_name": "Детская поликлиника",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447374-zorina/",
+        "id": "447374",
+        "name": "Зорина О. И.",
+        "specialities": [
+            "венеролог",
+            "детский дерматолог"
+        ],
+        "institution_id": "46087",
+        "institution_name": "Детская поликлиника",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447361-zyryanova/",
+        "id": "447361",
+        "name": "Зырянова И. В.",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46087",
+        "institution_name": "Детская поликлиника",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447348-kasymova/",
+        "id": "447348",
+        "name": "Касымова Л. Ю.",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46087",
+        "institution_name": "Детская поликлиника",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447366-klepcova/",
+        "id": "447366",
+        "name": "Клепцова Р. Г.",
+        "specialities": [
+            "офтальмолог (окулист)"
+        ],
+        "institution_id": "46087",
+        "institution_name": "Детская поликлиника",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447367-kosvinceva/",
+        "id": "447367",
+        "name": "Косвинцева Л. М.",
+        "specialities": [
+            "офтальмолог (окулист)"
+        ],
+        "institution_id": "46087",
+        "institution_name": "Детская поликлиника",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447264-bezmaternyh/",
+        "id": "447264",
+        "name": "Безматерных О. В.",
+        "specialities": [
+            "акушер",
+            "гинеколог"
+        ],
+        "institution_id": "37328",
+        "institution_name": "Женская консультация",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447266-votinceva/",
+        "id": "447266",
+        "name": "Вотинцева О. А.",
+        "specialities": [
+            "акушер",
+            "гинеколог"
+        ],
+        "institution_id": "37328",
+        "institution_name": "Женская консультация",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/224244-godnaya/",
+        "id": "224244",
+        "name": "Годная И. В.",
+        "specialities": [
+            "гинеколог"
+        ],
+        "institution_id": "37328",
+        "institution_name": "Женская консультация",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447268-godnaya/",
+        "id": "447268",
+        "name": "Годная И. Н.",
+        "specialities": [
+            "акушер",
+            "гинеколог"
+        ],
+        "institution_id": "37328",
+        "institution_name": "Женская консультация",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447273-kapustyan/",
+        "id": "447273",
+        "name": "Капустян С. А.",
+        "specialities": [
+            "акушер",
+            "гинеколог"
+        ],
+        "institution_id": "37328",
+        "institution_name": "Женская консультация",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447257-malceva/",
+        "id": "447257",
+        "name": "Мальцева О. А.",
+        "specialities": [
+            "акушер",
+            "гинеколог"
+        ],
+        "institution_id": "37328",
+        "institution_name": "Женская консультация",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422320-bichurina/",
+        "id": "422320",
+        "name": "Бичурина Э. Р.",
+        "specialities": [
+            "врач общей практики"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422321-blohina/",
+        "id": "422321",
+        "name": "Блохина Т. В.",
+        "specialities": [
+            "врач общей практики"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422322-bobkov/",
+        "id": "422322",
+        "name": "Бобков А. А.",
+        "specialities": [
+            "лор"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422323-bondarenko/",
+        "id": "422323",
+        "name": "Бондаренко С. Ю.",
+        "specialities": [
+            "терапевт"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422324-bukina/",
+        "id": "422324",
+        "name": "Букина Е. В.",
+        "specialities": [
+            "рентгенолог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422325-bukina/",
+        "id": "422325",
+        "name": "Букина Л. В.",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422326-bunygina/",
+        "id": "422326",
+        "name": "Буныгина М. В.",
+        "specialities": [
+            "невролог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422327-burko/",
+        "id": "422327",
+        "name": "Бурко В. С.",
+        "specialities": [
+            "хирург"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422328-burmistrov/",
+        "id": "422328",
+        "name": "Бурмистров Н. А.",
+        "specialities": [
+            "офтальмолог (окулист)"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422329-burmistrova/",
+        "id": "422329",
+        "name": "Бурмистрова О. М.",
+        "specialities": [
+            "невролог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422276-buchneva/",
+        "id": "422276",
+        "name": "Бучнева Н. Л.",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422330-bychkov/",
+        "id": "422330",
+        "name": "Бычков И. В.",
+        "specialities": [
+            "рентгенолог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422331-vavilova/",
+        "id": "422331",
+        "name": "Вавилова Н. Г.",
+        "specialities": [
+            "терапевт"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422332-vankova/",
+        "id": "422332",
+        "name": "Ванькова Н. А.",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422333-varlamova/",
+        "id": "422333",
+        "name": "Варламова И. Л.",
+        "specialities": [
+            "психиатр"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422334-vergazov/",
+        "id": "422334",
+        "name": "Вергазов М. А.",
+        "specialities": [
+            "эндоскопист"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422643-holmanskih/",
+        "id": "422643",
+        "name": "Холманских В. А.",
+        "specialities": [
+            "анестезиолог-реаниматолог"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422661-husainova/",
+        "id": "422661",
+        "name": "Хусаинова Р. Х.",
+        "specialities": [
+            "рентгенолог"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422640-chabunina/",
+        "id": "422640",
+        "name": "Чабунина Н. Е.",
+        "specialities": [
+            "анестезиолог-реаниматолог"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422625-chibikov/",
+        "id": "422625",
+        "name": "Чибиков Я. Л.",
+        "specialities": [
+            "неонатолог"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422657-chibikova/",
+        "id": "422657",
+        "name": "Чибикова А. В.",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422646-chudinova/",
+        "id": "422646",
+        "name": "Чудинова М. А.",
+        "specialities": [
+            "невролог",
+            "терапевт"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422648-shelkovnikova/",
+        "id": "422648",
+        "name": "Шелковникова О. В.",
+        "specialities": [
+            "кардиолог",
+            "терапевт"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422654-shirinkina/",
+        "id": "422654",
+        "name": "Ширинкина М. А.",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422641-sherban/",
+        "id": "422641",
+        "name": "Щербан М. Н.",
+        "specialities": [
+            "анестезиолог-реаниматолог",
+            "трансфузиолог"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/verhnechusovskie/vrach/422644-sherbina/",
+        "id": "422644",
+        "name": "Щербина Н. А.",
+        "specialities": [
+            "анестезиолог-реаниматолог"
+        ],
+        "institution_id": "46043",
+        "institution_name": "Поликлиника Районной больницы им. Любимова",
+        "institution_city": "Верхнечусовские городки"
+    },
+    {
+        "url": "/lysva/vrach/447359-kuznecova/",
+        "id": "447359",
+        "name": "Кузнецова И. В.",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46087",
+        "institution_name": "Детская поликлиника",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447349-marihina/",
+        "id": "447349",
+        "name": "Марихина С. А.",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46087",
+        "institution_name": "Детская поликлиника",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447337-pashkina/",
+        "id": "447337",
+        "name": "Пашкина И. В.",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46087",
+        "institution_name": "Детская поликлиника",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447350-pepelyaeva/",
+        "id": "447350",
+        "name": "Пепеляева С. И.",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46087",
+        "institution_name": "Детская поликлиника",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447352-perova/",
+        "id": "447352",
+        "name": "Перова Г. В.",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46087",
+        "institution_name": "Детская поликлиника",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447364-rusinova/",
+        "id": "447364",
+        "name": "Русинова И. И.",
+        "specialities": [
+            "ортопед",
+            "травматолог"
+        ],
+        "institution_id": "46087",
+        "institution_name": "Детская поликлиника",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447336-senyukova/",
+        "id": "447336",
+        "name": "Сенюкова Е. В.",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46087",
+        "institution_name": "Детская поликлиника",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447370-sivkova/",
+        "id": "447370",
+        "name": "Сивкова С. В.",
+        "specialities": [
+            "невролог"
+        ],
+        "institution_id": "46087",
+        "institution_name": "Детская поликлиника",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422335-volkov/",
+        "id": "422335",
+        "name": "Волков К. А.",
+        "specialities": [
+            "эндоскопист"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422336-voronin/",
+        "id": "422336",
+        "name": "Воронин В. Б.",
+        "specialities": [
+            "ортопед",
+            "травматолог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422337-voyakina/",
+        "id": "422337",
+        "name": "Воякина Т. В.",
+        "specialities": [
+            "врач общей практики"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422338-gafurova/",
+        "id": "422338",
+        "name": "Гафурова К. Ф.",
+        "specialities": [
+            "психиатр"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422264-gluhova/",
+        "id": "422264",
+        "name": "Глухова М. А.",
+        "specialities": [
+            "терапевт"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422277-gorbatova/",
+        "id": "422277",
+        "name": "Горбатова О. Б.",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422339-gordeev/",
+        "id": "422339",
+        "name": "Гордеев А. В.",
+        "specialities": [
+            "анестезиолог-реаниматолог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422340-gordeeva/",
+        "id": "422340",
+        "name": "Гордеева Е. О.",
+        "specialities": [
+            "терапевт"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422341-gorohova/",
+        "id": "422341",
+        "name": "Горохова Е. А.",
+        "specialities": [
+            "врач общей практики"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422342-gorohova/",
+        "id": "422342",
+        "name": "Горохова О. Л.",
+        "specialities": [
+            "кардиолог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422343-gracheva/",
+        "id": "422343",
+        "name": "Грачева Л. С.",
+        "specialities": [
+            "терапевт"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422344-grinkevich/",
+        "id": "422344",
+        "name": "Гринькевич Н. А.",
+        "specialities": [
+            "фтизиатр"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422345-guskova/",
+        "id": "422345",
+        "name": "Гуськова А. А.",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422346-gushina/",
+        "id": "422346",
+        "name": "Гущина И. Ю.",
+        "specialities": [
+            "венеролог",
+            "дерматолог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422258-danshina/",
+        "id": "422258",
+        "name": "Даньшина С. И.",
+        "specialities": [
+            "стоматолог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/lysva/vrach/447353-skorynina/",
+        "id": "447353",
+        "name": "Скорынина Н. С.",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46087",
+        "institution_name": "Детская поликлиника",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447340-strelko/",
+        "id": "447340",
+        "name": "Стрелко Е. О.",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46087",
+        "institution_name": "Детская поликлиника",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447342-strelkova/",
+        "id": "447342",
+        "name": "Стрелкова И. В.",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46087",
+        "institution_name": "Детская поликлиника",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447355-styazhkina/",
+        "id": "447355",
+        "name": "Стяжкина С. Е.",
+        "specialities": [
+            "аллерголог",
+            "иммунолог",
+            "педиатр"
+        ],
+        "institution_id": "46087",
+        "institution_name": "Детская поликлиника",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447371-subbotina/",
+        "id": "447371",
+        "name": "Субботина А. К.",
+        "specialities": [
+            "кардиолог"
+        ],
+        "institution_id": "46087",
+        "institution_name": "Детская поликлиника",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447365-tonkov/",
+        "id": "447365",
+        "name": "Тонков С. В.",
+        "specialities": [
+            "лор"
+        ],
+        "institution_id": "46087",
+        "institution_name": "Детская поликлиника",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447339-trushkova/",
+        "id": "447339",
+        "name": "Трушкова И. Л.",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46087",
+        "institution_name": "Детская поликлиника",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447356-tutunina/",
+        "id": "447356",
+        "name": "Тутунина Е. А.",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46087",
+        "institution_name": "Детская поликлиника",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447357-chugaynova/",
+        "id": "447357",
+        "name": "Чугайнова С. А.",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46087",
+        "institution_name": "Детская поликлиника",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/lysva/vrach/447358-shukina/",
+        "id": "447358",
+        "name": "Щукина Е. В.",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46087",
+        "institution_name": "Детская поликлиника",
+        "institution_city": "Лысьва"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422347-deberdeeva/",
+        "id": "422347",
+        "name": "Дебердеева С. Ф.",
+        "specialities": [
+            "венеролог",
+            "дерматолог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422348-devyataeva/",
+        "id": "422348",
+        "name": "Девятаева В. И.",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422349-denishev/",
+        "id": "422349",
+        "name": "Денишев Р. Б.",
+        "specialities": [
+            "терапевт"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422350-drushenko/",
+        "id": "422350",
+        "name": "Друщенко В. В.",
+        "specialities": [
+            "врач общей практики"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422351-evstigneeva/",
+        "id": "422351",
+        "name": "Евстигнеева О. А.",
+        "specialities": [
+            "кардиолог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422352-eremkina/",
+        "id": "422352",
+        "name": "Еремкина Ю. В.",
+        "specialities": [
+            "нарколог",
+            "психиатр"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422353-ermoshina/",
+        "id": "422353",
+        "name": "Ермошина Е. А.",
+        "specialities": [
+            "инфекционист"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422354-efremova/",
+        "id": "422354",
+        "name": "Ефремова Г. Ю.",
+        "specialities": [
+            "нарколог",
+            "психиатр"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422355-zhevaykin/",
+        "id": "422355",
+        "name": "Жевайкин М. И.",
+        "specialities": [
+            "хирург"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422356-zhogin/",
+        "id": "422356",
+        "name": "Жогин М. Н.",
+        "specialities": [
+            "анестезиолог-реаниматолог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422278-zaburyannaya/",
+        "id": "422278",
+        "name": "Забурянная А. В.",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422259-zagvozdkina/",
+        "id": "422259",
+        "name": "Загвоздкина Е. И.",
+        "specialities": [
+            "стоматолог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422357-zamedlina/",
+        "id": "422357",
+        "name": "Замедлина Т. И.",
+        "specialities": [
+            "невролог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422358-zaharova/",
+        "id": "422358",
+        "name": "Захарова Т. М.",
+        "specialities": [
+            "врач узи"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422359-zinchenko/",
+        "id": "422359",
+        "name": "Зинченко А. В.",
+        "specialities": [
+            "анестезиолог-реаниматолог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422360-zinchenko/",
+        "id": "422360",
+        "name": "Зинченко Г. В.",
+        "specialities": [
+            "врач общей практики"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422361-zubaha/",
+        "id": "422361",
+        "name": "Зубаха Е. Н.",
+        "specialities": [
+            "инфекционист"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422362-ivanova/",
+        "id": "422362",
+        "name": "Иванова И. А.",
+        "specialities": [
+            "врач общей практики"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422363-ignatova/",
+        "id": "422363",
+        "name": "Игнатова З. Л.",
+        "specialities": [
+            "трансфузиолог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422364-ignatev/",
+        "id": "422364",
+        "name": "Игнатьев В. А.",
+        "specialities": [
+            "хирург"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422365-ignateva/",
+        "id": "422365",
+        "name": "Игнатьева Е. Н.",
+        "specialities": [
+            "врач общей практики"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422366-igushkina/",
+        "id": "422366",
+        "name": "Игушкина И. А.",
+        "specialities": [
+            "врач общей практики"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422274-idrisova/",
+        "id": "422274",
+        "name": "Идрисова Р. Р.",
+        "specialities": [
+            "лор"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422367-izmaylova/",
+        "id": "422367",
+        "name": "Измайлова Н. Н.",
+        "specialities": [
+            "врач общей практики"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422368-ilinov/",
+        "id": "422368",
+        "name": "Ильинов Н. Д.",
+        "specialities": [
+            "хирург"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422265-ilinyh/",
+        "id": "422265",
+        "name": "Ильиных О. С.",
+        "specialities": [
+            "терапевт"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422369-ilyasova/",
+        "id": "422369",
+        "name": "Ильясова Л. Н.",
+        "specialities": [
+            "фтизиатр"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422370-ilyushkin/",
+        "id": "422370",
+        "name": "Илюшкин С. И.",
+        "specialities": [
+            "онколог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422262-kazakov/",
+        "id": "422262",
+        "name": "Казаков А. П.",
+        "specialities": [
+            "детский стоматолог",
+            "стоматолог",
+            "стоматолог-хирург"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422371-kalashnikov/",
+        "id": "422371",
+        "name": "Калашников М. Н.",
+        "specialities": [
+            "стоматолог-хирург"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422372-kargin/",
+        "id": "422372",
+        "name": "Каргин П. С.",
+        "specialities": [
+            "врач общей практики"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422373-kargina/",
+        "id": "422373",
+        "name": "Каргина О. А.",
+        "specialities": [
+            "терапевт"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422374-karimullina/",
+        "id": "422374",
+        "name": "Каримуллина Н. Е.",
+        "specialities": [
+            "акушер",
+            "гинеколог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422375-karmanova/",
+        "id": "422375",
+        "name": "Карманова Е. Н.",
+        "specialities": [
+            "врач общей практики"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422279-kac/",
+        "id": "422279",
+        "name": "Кац В. П.",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422376-kirsanov/",
+        "id": "422376",
+        "name": "Кирсанов С. А.",
+        "specialities": [
+            "нейрохирург"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422377-kiseleva/",
+        "id": "422377",
+        "name": "Киселева О. В.",
+        "specialities": [
+            "анестезиолог-реаниматолог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422378-klyanchina/",
+        "id": "422378",
+        "name": "Клянчина Н. Н.",
+        "specialities": [
+            "врач общей практики"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422379-knauer/",
+        "id": "422379",
+        "name": "Кнауэр Д. В.",
+        "specialities": [
+            "анестезиолог-реаниматолог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422380-knyazeva/",
+        "id": "422380",
+        "name": "Князева К. В.",
+        "specialities": [
+            "невролог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422381-kolpashnikova/",
+        "id": "422381",
+        "name": "Колпашникова Л. А.",
+        "specialities": [
+            "акушер",
+            "гинеколог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422382-kopylova/",
+        "id": "422382",
+        "name": "Копылова И. Б.",
+        "specialities": [
+            "нарколог",
+            "психиатр"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422385-korolyov/",
+        "id": "422385",
+        "name": "Королёв В. В.",
+        "specialities": [
+            "рентгенолог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422386-koryazhkina/",
+        "id": "422386",
+        "name": "Коряжкина М. Н.",
+        "specialities": [
+            "венеролог",
+            "дерматолог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422387-krasikov/",
+        "id": "422387",
+        "name": "Красиков В. Н.",
+        "specialities": [
+            "нейрохирург"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422388-krasikova/",
+        "id": "422388",
+        "name": "Красикова О. Ф.",
+        "specialities": [
+            "терапевт"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422389-krivchenkov/",
+        "id": "422389",
+        "name": "Кривченков Н. Г.",
+        "specialities": [
+            "хирург"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422245-kudryavceva/",
+        "id": "422245",
+        "name": "Кудрявцева О. А.",
+        "specialities": [
+            "дерматолог",
+            "онколог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422391-kuzahmetova/",
+        "id": "422391",
+        "name": "Кузахметова Ю. М.",
+        "specialities": [
+            "терапевт"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422392-kuzmin/",
+        "id": "422392",
+        "name": "Кузьмин В. А.",
+        "specialities": [
+            "анестезиолог-реаниматолог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422393-kuzmichev/",
+        "id": "422393",
+        "name": "Кузьмичев В. Ф.",
+        "specialities": [
+            "стоматолог-хирург"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422394-kuzmicheva/",
+        "id": "422394",
+        "name": "Кузьмичева Е. А.",
+        "specialities": [
+            "кардиолог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422395-kuleeva/",
+        "id": "422395",
+        "name": "Кулеева Н. Я.",
+        "specialities": [
+            "инфекционист"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422396-kupcova/",
+        "id": "422396",
+        "name": "Купцова М. А.",
+        "specialities": [
+            "хирург"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422285-luneva/",
+        "id": "422285",
+        "name": "Лунева М. Р.",
+        "specialities": [
+            "терапевт"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422280-makarova/",
+        "id": "422280",
+        "name": "Макарова Н. И.",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422243-maramygina/",
+        "id": "422243",
+        "name": "Марамыгина Л. П.",
+        "specialities": [
+            "гинеколог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422244-parshakov/",
+        "id": "422244",
+        "name": "Паршаков А. П.",
+        "specialities": [
+            "гинеколог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422253-permyakova/",
+        "id": "422253",
+        "name": "Пермякова И. А.",
+        "specialities": [
+            "педиатр"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422266-pungina/",
+        "id": "422266",
+        "name": "Пунгина М. А.",
+        "specialities": [
+            "терапевт"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422267-pyasecka/",
+        "id": "422267",
+        "name": "Пясецка А. В.",
+        "specialities": [
+            "терапевт"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422286-rodionova/",
+        "id": "422286",
+        "name": "Родионова В. И.",
+        "specialities": [
+            "терапевт"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422268-sidorova/",
+        "id": "422268",
+        "name": "Сидорова С. С.",
+        "specialities": [
+            "терапевт"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422271-tusnina/",
+        "id": "422271",
+        "name": "Туснина М. Б.",
+        "specialities": [
+            "инфекционист",
+            "кардиолог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    },
+    {
+        "url": "/aleksandrovsk/vrach/422273-chechubalina/",
+        "id": "422273",
+        "name": "Чечубалина И. А.",
+        "specialities": [
+            "невролог",
+            "онколог"
+        ],
+        "institution_id": "46004",
+        "institution_name": "Поликлиника",
+        "institution_city": "Александровск"
+    }
+]

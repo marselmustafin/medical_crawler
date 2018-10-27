@@ -13,6 +13,16 @@ class ResourceLink(scrapy.Item):
     url = scrapy.Field()
 
 
+class Doctor(scrapy.Item):
+    id = scrapy.Field()
+    url = scrapy.Field()
+    name = scrapy.Field()
+    specialities = scrapy.Field()
+    institution_id = scrapy.Field()
+    institution_name = scrapy.Field()
+    institution_city = scrapy.Field()
+
+
 class InstitutionComment(scrapy.Item):
     id = scrapy.Field()
     url = scrapy.Field()
