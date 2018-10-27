@@ -39,7 +39,7 @@ class InstCommentsSpider(scrapy.Spider):
     def parse_comment(self, comment_div, url):
         id = self.comment_id(comment_div)
         avg_rate = comment_div.css(".avg_rate::text").extract_first()
-        avg_text = comment_div.css(".avg_text::text").extract_first()
+        avg_text = comment_div.css(".avg_text::text").extract_first().strip()
         datetime = comment_div.css(".datetime::text").extract_first()
 
         content = self.filtered_content(comment_div, "p.comment2")
@@ -107,7 +107,7 @@ class InstCommentsSpider(scrapy.Spider):
         content = comment_div.css(content_type_class).extract_first()
 
         if content and remove_tags(content):
-            return remove_tags(content)
+            return remove_tags(content).strip()
 
     def filtered_doctor_name(self, name):
         if name:
