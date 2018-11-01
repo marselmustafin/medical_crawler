@@ -92,9 +92,11 @@ DOWNLOADER_MIDDLEWARES = {
 
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
-# ITEM_PIPELINES = {
-#     'medical_crawler.pipelines.UrlDuplicatesPipeline': 300,
-# }
+ITEM_PIPELINES = {
+    'medical_crawler.pipelines.ResourceLinksDuplicatesPipeline': 300,
+    'medical_crawler.pipelines.CommentsDuplicatesPipeline': 300,
+    'medical_crawler.pipelines.DoctorsDuplicatesPipeline': 300,
+}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html

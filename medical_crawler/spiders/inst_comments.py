@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import scrapy
 from scrapy.linkextractors import LinkExtractor
+from datetime import datetime
 from medical_crawler.items import InstitutionComment
 from w3lib.html import remove_tags
 import json
@@ -39,8 +40,10 @@ class InstCommentsSpider(scrapy.Spider):
     def parse_comment(self, comment_div, url):
         id = self.comment_id(comment_div)
         avg_rate = comment_div.css(".avg_rate::text").extract_first()
-        avg_text = comment_div.css(".avg_text::text").extract_first().strip()
-        datetime = comment_div.css(".datetime::text").extract_first()
+        avg_text = self.filtered_content(comment_div, ".avg_text::text")
+
+        year, month, day, time = self.datetime(
+            comment_div.css(".datetime::text").extract_first())
 
         content = self.filtered_content(comment_div, "p.comment2")
 
@@ -66,8 +69,8 @@ class InstCommentsSpider(scrapy.Spider):
 
         reply = self.moderator_reply(moderator_reply_divs)
 
-        reply_datetime = comment_div.css(
-            ".moder .datetime::text").extract_first()
+        reply_datetime = self.datetime(comment_div.css(
+            ".moder .datetime::text").extract_first())
 
         doctor_name = comment_div.css(
             "div[style='float: right']::text").extract_first()
@@ -82,7 +85,10 @@ class InstCommentsSpider(scrapy.Spider):
             content=content,
             pos_content=pos_content,
             neg_content=neg_content,
-            datetime=datetime,
+            year=year,
+            month=month,
+            day=day,
+            time=time,
             institution_id=institution_id,
             institution_name=institution_name,
             institution_city=institution_city,
@@ -108,6 +114,18 @@ class InstCommentsSpider(scrapy.Spider):
 
         if content and remove_tags(content):
             return remove_tags(content).strip()
+
+    def datetime(self, datetime_str):
+        if datetime_str:
+            date, time = datetime_str.split(" ")
+
+            try:
+                date = datetime.strptime(date, "%d.%m.%Y")
+            except:
+                date = datetime.strptime(date, "%d.%m.%y")
+
+            year = date.year if date.year < 2000 else date.year % 100
+            return year, date.month, date.day, time
 
     def filtered_doctor_name(self, name):
         if name:
