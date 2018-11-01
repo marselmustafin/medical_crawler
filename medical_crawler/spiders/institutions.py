@@ -8,6 +8,12 @@ import json
 class InstitutionsSpider(scrapy.Spider):
     name = 'institutions'
 
+    custom_settings = {
+        'ITEM_PIPELINES': {
+            'medical_crawler.pipelines.UrlDuplicatesPipeline': 300
+        },
+    }
+
     def start_requests(self):
         for url in self.city_institutions_urls():
             yield scrapy.Request(url=url, callback=self.parse)

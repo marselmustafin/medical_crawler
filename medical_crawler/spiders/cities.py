@@ -8,6 +8,12 @@ class CitiesSpider(scrapy.Spider):
     name = 'cities'
     start_urls = ["https://prodoctorov.ru/regions/"]
 
+    custom_settings = {
+        'ITEM_PIPELINES': {
+            'medical_crawler.pipelines.UrlDuplicatesPipeline': 300
+        },
+    }
+
     def parse(self, response):
         for region_link in LinkExtractor(restrict_css="div.regions").extract_links(response):
             yield scrapy.Request(url=region_link.url, callback=self.parse_cities)

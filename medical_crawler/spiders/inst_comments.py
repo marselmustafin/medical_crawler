@@ -12,6 +12,12 @@ class InstCommentsSpider(scrapy.Spider):
     name = 'inst_comments'
     base_url = "https://prodoctorov.ru"
 
+    custom_settings = {
+        'ITEM_PIPELINES': {
+            'medical_crawler.pipelines.IdDuplicatesPipeline': 300
+        },
+    }
+
     def start_requests(self):
         for url in self.institutions_reviews_urls():
             request = scrapy.Request(url=url, callback=self.parse)
@@ -69,8 +75,8 @@ class InstCommentsSpider(scrapy.Spider):
 
         reply = self.moderator_reply(moderator_reply_divs)
 
-        reply_datetime = self.datetime(comment_div.css(
-            ".moder .datetime::text").extract_first())
+        reply_datetime = comment_div.css(
+            ".moder .datetime::text").extract_first()
 
         doctor_name = comment_div.css(
             "div[style='float: right']::text").extract_first()
