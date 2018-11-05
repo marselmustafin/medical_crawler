@@ -75,8 +75,8 @@ class InstCommentsSpider(scrapy.Spider):
 
         reply = self.moderator_reply(moderator_reply_divs)
 
-        reply_datetime = comment_div.css(
-            ".moder .datetime::text").extract_first()
+        reply_year, reply_month, reply_day, reply_time = self.datetime(
+            comment_div.css(".moder .datetime::text").extract_first())
 
         doctor_name = comment_div.css(
             "div[style='float: right']::text").extract_first()
@@ -101,7 +101,10 @@ class InstCommentsSpider(scrapy.Spider):
             author_name=author_name,
             author_operator=author_operator,
             reply=reply,
-            reply_datetime=reply_datetime,
+            reply_year=reply_year,
+            reply_month=reply_month,
+            reply_day=reply_day,
+            reply_time=reply_time,
             doctor_name=doctor_name
         )
 
@@ -132,6 +135,8 @@ class InstCommentsSpider(scrapy.Spider):
 
             year = date.year if date.year < 2000 else date.year % 100
             return year, date.month, date.day, time
+        else:
+            return [None, None, None, None]
 
     def filtered_doctor_name(self, name):
         if name:
