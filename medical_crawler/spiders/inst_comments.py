@@ -1,12 +1,11 @@
 # -*- coding: utf-8 -*-
-import scrapy
-from scrapy.linkextractors import LinkExtractor
-from datetime import datetime
-from medical_crawler.items import InstitutionComment
-from w3lib.html import remove_tags
+
 import json
 import re
-
+from datetime import datetime
+import scrapy
+from w3lib.html import remove_tags
+from medical_crawler.items import InstitutionComment
 
 class InstCommentsSpider(scrapy.Spider):
     name = 'inst_comments'
@@ -26,7 +25,7 @@ class InstCommentsSpider(scrapy.Spider):
 
     def parse(self, response):
         if response.css("div.lpu-right"):
-            self.set_institution_params(response.css("div.lpu-right"))
+            self.set_institution_params(response)
 
         url = response.url
 
@@ -48,19 +47,17 @@ class InstCommentsSpider(scrapy.Spider):
         avg_rate = comment_div.css(".avg_rate::text").extract_first()
         avg_text = self.filtered_content(comment_div, ".avg_text::text")
 
-        year, month, day, time = self.datetime(
-            comment_div.css(".datetime::text").extract_first())
+        year, month, day, time = (
+            self.datetime(comment_div.css(".datetime::text").extract())
+        )
 
         content = self.filtered_content(comment_div, "p.comment2")
 
         if not content:
             content = self.filtered_content(comment_div, "p.comment")
 
-        pos_content = self.filtered_content(
-            comment_div, "p.comment_plus")
-
-        neg_content = self.filtered_content(
-            comment_div, "p.comment_minus")
+        pos_content = self.filtered_content(comment_div, "p.comment_plus")
+        neg_content = self.filtered_content(comment_div, "p.comment_minus")
 
         institution_id = self.institution_id(url)
         institution_name = self.institution_name
@@ -126,11 +123,14 @@ class InstCommentsSpider(scrapy.Spider):
 
     def datetime(self, datetime_str):
         if datetime_str:
-            date, time = datetime_str.split(" ")
+            if isinstance(datetime_str, list):
+                datetime_str = datetime_str[-1]
+
+            date, time = datetime_str.strip().split(" ")
 
             try:
                 date = datetime.strptime(date, "%d.%m.%Y")
-            except:
+            except ValueError:
                 date = datetime.strptime(date, "%d.%m.%y")
 
             year = date.year if date.year < 2000 else date.year % 100
@@ -155,12 +155,16 @@ class InstCommentsSpider(scrapy.Spider):
         else:
             return int(institution_id_str.split("-")[0])
 
-    def set_institution_params(self, params_div):
-        self.institution_name = params_div.css(
-            "div[itemprop='name']::text").extract_first().strip()
+    def set_institution_params(self, response):
+        meta_description = (
+            response.css("meta[name='description']::attr(content)")
+            .extract_first()
+        )
 
-        self.institution_city = params_div.css(
-            "div[itemprop='name'] div::text").extract_first().strip()
+        self.institution_name, self.institution_city = (
+            meta_description.split(":")[0]
+            .split(", ")
+        )
 
     def institutions_reviews_urls(self):
         with open('institutions.json') as institutions:
