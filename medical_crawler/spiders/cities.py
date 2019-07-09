@@ -15,7 +15,7 @@ class CitiesSpider(scrapy.Spider):
     }
 
     def parse(self, response):
-        for region_link in LinkExtractor(restrict_css="div.regions").extract_links(response):
+        for region_link in LinkExtractor(restrict_css="a.list-links__link").extract_links(response):
             yield scrapy.Request(url=region_link.url, callback=self.parse_cities)
 
     def parse_cities(self, region_response):
